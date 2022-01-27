@@ -1,0 +1,229 @@
+0000.002 (0) Opened log file at time: Fri, 26 Apr 2019 06:21:55 +0000 on https://staging.innovatech.studio
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.12 WP: 5.1.1 PHP: 7.3.4 (fpm-fcgi, Linux innovatech-sgp-02 4.15.0-47-generic #50-Ubuntu SMP Wed Mar 13 10:44:52 UTC 2019 x86_64) MySQL: 10.2.23-MariaDB-1:10.2.23+maria~bionic-log WPLANG: en_US Server: Apache/2.4.39 (Unix) OpenSSL/1.1.0g safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 8.2M | 10M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 16589.4 MB
+0000.055 (0) Tasks: Backup files: 0 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.064 (0) Semaphore (d, innovatech_options) being initialised
+0000.074 (0) Requesting semaphore lock (d) (apparently not via scheduler)
+0000.088 (0) Set semaphore last lock (d) time to 2019-04-26 06:21:55
+0000.096 (0) Semaphore lock (d) complete
+0000.129 (0) Backup run: resumption=0, nonce=4bef762ce2fb, file_nonce=4bef762ce2fb begun at=1556259715 (0s ago), job type=backup
+0000.174 (0) Scheduling a resumption (1) after 300 seconds (1556260015) in case this run gets aborted
+0000.213 (0) This backup run is not intended for files - skipping
+0000.218 (0) Beginning creation of database dump (WordPress DB)
+0000.247 (0) Table innovatech_options: Total expected rows (approximate): 355
+0000.264 (0) Table innovatech_options: Total rows added: 351 in 0.01 seconds
+0000.270 (0) Table innovatech_options: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_options.table.gz - 39.7 KB)
+0000.297 (0) Table innovatech_users: Total expected rows (approximate): 2
+0000.304 (0) Table innovatech_users: Total rows added: 2 in 0.00 seconds
+0000.309 (0) Table innovatech_users: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_users.table.gz - 0.6 KB)
+0000.327 (0) Table innovatech_usermeta: Total expected rows (approximate): 53
+0000.336 (0) Table innovatech_usermeta: Total rows added: 53 in 0.00 seconds
+0000.341 (0) Table innovatech_usermeta: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_usermeta.table.gz - 2.1 KB)
+0000.371 (0) Table innovatech_commentmeta: Total expected rows (approximate): 0
+0000.380 (0) Table innovatech_commentmeta: Total rows added: 0 in 0.00 seconds
+0000.386 (0) Table innovatech_commentmeta: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_commentmeta.table.gz - 0.4 KB)
+0000.413 (0) Table innovatech_comments: Total expected rows (approximate): 0
+0000.428 (0) Table innovatech_comments: Total rows added: 0 in 0.00 seconds
+0000.440 (0) Table innovatech_comments: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_comments.table.gz - 0.5 KB)
+0000.482 (0) Table innovatech_cpd_counter: Total expected rows (approximate): 23672
+0001.045 (0) Table innovatech_cpd_counter: Total rows added: 24226 in 0.54 seconds
+0001.050 (0) Table innovatech_cpd_counter: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_cpd_counter.table.gz - 346.5 KB)
+0001.059 (0) Table innovatech_links: Total expected rows (approximate): 0
+0001.063 (0) Table innovatech_links: Total rows added: 0 in 0.00 seconds
+0001.066 (0) Table innovatech_links: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_links.table.gz - 0.4 KB)
+0001.076 (0) Table innovatech_postmeta: Total expected rows (approximate): 186
+0001.081 (0) Table innovatech_postmeta: Total rows added: 186 in 0.00 seconds
+0001.086 (0) Table innovatech_postmeta: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_postmeta.table.gz - 7.3 KB)
+0001.100 (0) Table innovatech_posts: Total expected rows (approximate): 45
+0001.109 (0) Table innovatech_posts: Total rows added: 45 in 0.00 seconds
+0001.113 (0) Table innovatech_posts: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_posts.table.gz - 11.4 KB)
+0001.125 (0) Table innovatech_term_relationships: Total expected rows (approximate): 46
+0001.130 (0) Table innovatech_term_relationships: Total rows added: 46 in 0.00 seconds
+0001.147 (0) Table innovatech_term_relationships: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_term_relationships.table.gz - 0.5 KB)
+0001.173 (0) Table innovatech_term_taxonomy: Total expected rows (approximate): 16
+0001.186 (0) Table innovatech_term_taxonomy: Total rows added: 16 in 0.00 seconds
+0001.196 (0) Table innovatech_term_taxonomy: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_term_taxonomy.table.gz - 0.8 KB)
+0001.215 (0) Table innovatech_termmeta: Total expected rows (approximate): 0
+0001.221 (0) Table innovatech_termmeta: Total rows added: 0 in 0.00 seconds
+0001.228 (0) Table innovatech_termmeta: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_termmeta.table.gz - 0.4 KB)
+0001.253 (0) Table innovatech_terms: Total expected rows (approximate): 16
+0001.262 (0) Table innovatech_terms: Total rows added: 16 in 0.00 seconds
+0001.268 (0) Table innovatech_terms: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_terms.table.gz - 0.7 KB)
+0001.292 (0) Table innovatech_responsive_menu: Total expected rows (approximate): 280
+0001.302 (0) Table innovatech_responsive_menu: Total rows added: 280 in 0.00 seconds
+0001.307 (0) Table innovatech_responsive_menu: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_responsive_menu.table.gz - 2.2 KB)
+0001.328 (0) Table innovatech_tm_taskmeta: Total expected rows (approximate): 0
+0001.334 (0) Table innovatech_tm_taskmeta: Total rows added: 0 in 0.00 seconds
+0001.339 (0) Table innovatech_tm_taskmeta: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_tm_taskmeta.table.gz - 0.4 KB)
+0001.365 (0) Table innovatech_tm_tasks: Total expected rows (approximate): 0
+0001.379 (0) Table innovatech_tm_tasks: Total rows added: 0 in 0.00 seconds
+0001.386 (0) Table innovatech_tm_tasks: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_tm_tasks.table.gz - 0.4 KB)
+0001.414 (0) Table innovatech_trp_dictionary_ja_en_gb: Total expected rows (approximate): 91
+0001.421 (0) Table innovatech_trp_dictionary_ja_en_gb: Total rows added: 91 in 0.00 seconds
+0001.425 (0) Table innovatech_trp_dictionary_ja_en_gb: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_dictionary_ja_en_gb.table.gz - 2.6 KB)
+0001.436 (0) Table innovatech_trp_dictionary_ja_en_us: Total expected rows (approximate): 682
+0001.446 (0) Table innovatech_trp_dictionary_ja_en_us: Total rows added: 682 in 0.01 seconds
+0001.451 (0) Table innovatech_trp_dictionary_ja_en_us: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_dictionary_ja_en_us.table.gz - 18.1 KB)
+0001.467 (0) Table innovatech_trp_gettext_en_gb: Total expected rows (approximate): 81
+0001.472 (0) Table innovatech_trp_gettext_en_gb: Total rows added: 81 in 0.00 seconds
+0001.477 (0) Table innovatech_trp_gettext_en_gb: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_gettext_en_gb.table.gz - 1.6 KB)
+0001.494 (0) Table innovatech_trp_gettext_en_us: Total expected rows (approximate): 140
+0001.502 (0) Table innovatech_trp_gettext_en_us: Total rows added: 140 in 0.00 seconds
+0001.513 (0) Table innovatech_trp_gettext_en_us: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_gettext_en_us.table.gz - 2.2 KB)
+0001.532 (0) Table innovatech_trp_gettext_ja: Total expected rows (approximate): 397
+0001.541 (0) Table innovatech_trp_gettext_ja: Total rows added: 397 in 0.00 seconds
+0001.544 (0) Table innovatech_trp_gettext_ja: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_gettext_ja.table.gz - 17.4 KB)
+0001.555 (0) Table innovatech_wfbadleechers: Total expected rows (approximate): 0
+0001.563 (0) Table innovatech_wfbadleechers: Total rows added: 0 in 0.00 seconds
+0001.575 (0) Table innovatech_wfbadleechers: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfbadleechers.table.gz - 0.3 KB)
+0001.589 (0) Table innovatech_wfblockediplog: Total expected rows (approximate): 807
+0001.598 (0) Table innovatech_wfblockediplog: Total rows added: 807 in 0.00 seconds
+0001.603 (0) Table innovatech_wfblockediplog: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfblockediplog.table.gz - 5.6 KB)
+0001.619 (0) Table innovatech_wfblocks7: Total expected rows (approximate): 0
+0001.626 (0) Table innovatech_wfblocks7: Total rows added: 0 in 0.00 seconds
+0001.631 (0) Table innovatech_wfblocks7: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfblocks7.table.gz - 0.4 KB)
+0001.645 (0) Table innovatech_wfconfig: Total expected rows (approximate): 264
+0001.678 (0) Table innovatech_wfconfig: Total rows added: 267 in 0.03 seconds
+0001.683 (0) Table innovatech_wfconfig: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfconfig.table.gz - 365.7 KB)
+0001.701 (0) Table innovatech_wfcrawlers: Total expected rows (approximate): 42
+0001.711 (0) Table innovatech_wfcrawlers: Total rows added: 42 in 0.00 seconds
+0001.717 (0) Table innovatech_wfcrawlers: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfcrawlers.table.gz - 0.9 KB)
+0001.735 (0) Table innovatech_wffilechanges: Total expected rows (approximate): 0
+0001.740 (0) Table innovatech_wffilechanges: Total rows added: 0 in 0.00 seconds
+0001.744 (0) Table innovatech_wffilechanges: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wffilechanges.table.gz - 0.3 KB)
+0001.756 (0) Table innovatech_wffilemods: Total expected rows (approximate): 5348
+0001.845 (0) Table innovatech_wffilemods: Total rows added: 5389 in 0.09 seconds
+0001.852 (0) Table innovatech_wffilemods: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wffilemods.table.gz - 460.4 KB)
+0001.871 (0) Table innovatech_wfhits: Total expected rows (approximate): 1812
+0001.907 (0) Table innovatech_wfhits: Total rows added: 1808 in 0.03 seconds
+0001.914 (0) Table innovatech_wfhits: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfhits.table.gz - 22.3 KB)
+0001.926 (0) Table innovatech_wfhoover: Total expected rows (approximate): 0
+0001.931 (0) Table innovatech_wfhoover: Total rows added: 0 in 0.00 seconds
+0001.935 (0) Table innovatech_wfhoover: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfhoover.table.gz - 0.3 KB)
+0001.946 (0) Table innovatech_wfissues: Total expected rows (approximate): 1
+0001.948 (0) Table innovatech_wfissues: Total rows added: 1 in 0.00 seconds
+0001.951 (0) Table innovatech_wfissues: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfissues.table.gz - 0.9 KB)
+0001.964 (0) Table innovatech_wfknownfilelist: Total expected rows (approximate): 5654
+0001.999 (0) Table innovatech_wfknownfilelist: Total rows added: 5389 in 0.03 seconds
+0002.004 (0) Table innovatech_wfknownfilelist: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfknownfilelist.table.gz - 53.5 KB)
+0002.012 (0) Table innovatech_wfleechers: Total expected rows (approximate): 200
+0002.018 (0) Table innovatech_wfleechers: Total rows added: 200 in 0.00 seconds
+0002.021 (0) Table innovatech_wfleechers: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfleechers.table.gz - 1.9 KB)
+0002.032 (0) Table innovatech_wflivetraffichuman: Total expected rows (approximate): 0
+0002.036 (0) Table innovatech_wflivetraffichuman: Total rows added: 0 in 0.00 seconds
+0002.041 (0) Table innovatech_wflivetraffichuman: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wflivetraffichuman.table.gz - 0.3 KB)
+0002.057 (0) Table innovatech_wflocs: Total expected rows (approximate): 0
+0002.063 (0) Table innovatech_wflocs: Total rows added: 0 in 0.00 seconds
+0002.066 (0) Table innovatech_wflocs: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wflocs.table.gz - 0.4 KB)
+0002.072 (0) Table innovatech_wflogins: Total expected rows (approximate): 834
+0002.086 (0) Table innovatech_wflogins: Total rows added: 834 in 0.01 seconds
+0002.090 (0) Table innovatech_wflogins: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wflogins.table.gz - 26.1 KB)
+0002.109 (0) Table innovatech_wfnotifications: Total expected rows (approximate): 10
+0002.116 (0) Table innovatech_wfnotifications: Total rows added: 10 in 0.00 seconds
+0002.121 (0) Table innovatech_wfnotifications: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfnotifications.table.gz - 0.7 KB)
+0002.138 (0) Table innovatech_wfpendingissues: Total expected rows (approximate): 0
+0002.143 (0) Table innovatech_wfpendingissues: Total rows added: 0 in 0.00 seconds
+0002.147 (0) Table innovatech_wfpendingissues: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfpendingissues.table.gz - 0.4 KB)
+0002.156 (0) Table innovatech_wfreversecache: Total expected rows (approximate): 13
+0002.161 (0) Table innovatech_wfreversecache: Total rows added: 13 in 0.00 seconds
+0002.164 (0) Table innovatech_wfreversecache: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfreversecache.table.gz - 0.5 KB)
+0002.187 (0) Table innovatech_wfscanners: Total expected rows (approximate): 12
+0002.197 (0) Table innovatech_wfscanners: Total rows added: 12 in 0.00 seconds
+0002.201 (0) Table innovatech_wfscanners: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfscanners.table.gz - 0.5 KB)
+0002.217 (0) Table innovatech_wfsnipcache: Total expected rows (approximate): 0
+0002.223 (0) Table innovatech_wfsnipcache: Total rows added: 0 in 0.00 seconds
+0002.229 (0) Table innovatech_wfsnipcache: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfsnipcache.table.gz - 0.4 KB)
+0002.248 (0) Table innovatech_wfstatus: Total expected rows (approximate): 970
+0002.265 (0) Table innovatech_wfstatus: Total rows added: 970 in 0.01 seconds
+0002.268 (0) Table innovatech_wfstatus: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfstatus.table.gz - 16.3 KB)
+0002.280 (0) Table innovatech_wftrafficrates: Total expected rows (approximate): 0
+0002.285 (0) Table innovatech_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0002.289 (0) Table innovatech_wftrafficrates: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wftrafficrates.table.gz - 0.3 KB)
+0002.301 (0) Table innovatech_wfvulnscanners: Total expected rows (approximate): 0
+0002.307 (0) Table innovatech_wfvulnscanners: Total rows added: 0 in 0.00 seconds
+0002.314 (0) Table innovatech_wfvulnscanners: finishing file (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfvulnscanners.table.gz - 0.3 KB)
+0002.335 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_options.table.gz (1/44): adding to final database dump
+0002.347 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_users.table.gz (2/44): adding to final database dump
+0002.351 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_usermeta.table.gz (3/44): adding to final database dump
+0002.355 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_commentmeta.table.gz (4/44): adding to final database dump
+0002.357 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_comments.table.gz (5/44): adding to final database dump
+0002.359 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_cpd_counter.table.gz (6/44): adding to final database dump
+0002.454 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_links.table.gz (7/44): adding to final database dump
+0002.457 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_postmeta.table.gz (8/44): adding to final database dump
+0002.462 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_posts.table.gz (9/44): adding to final database dump
+0002.466 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_term_relationships.table.gz (10/44): adding to final database dump
+0002.470 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_term_taxonomy.table.gz (11/44): adding to final database dump
+0002.471 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_termmeta.table.gz (12/44): adding to final database dump
+0002.476 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_terms.table.gz (13/44): adding to final database dump
+0002.481 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_responsive_menu.table.gz (14/44): adding to final database dump
+0002.485 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_tm_taskmeta.table.gz (15/44): adding to final database dump
+0002.488 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_tm_tasks.table.gz (16/44): adding to final database dump
+0002.492 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_dictionary_ja_en_gb.table.gz (17/44): adding to final database dump
+0002.496 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_dictionary_ja_en_us.table.gz (18/44): adding to final database dump
+0002.503 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_gettext_en_gb.table.gz (19/44): adding to final database dump
+0002.507 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_gettext_en_us.table.gz (20/44): adding to final database dump
+0002.510 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_trp_gettext_ja.table.gz (21/44): adding to final database dump
+0002.514 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfbadleechers.table.gz (22/44): adding to final database dump
+0002.517 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfblockediplog.table.gz (23/44): adding to final database dump
+0002.521 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfblocks7.table.gz (24/44): adding to final database dump
+0002.524 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfconfig.table.gz (25/44): adding to final database dump
+0002.545 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfcrawlers.table.gz (26/44): adding to final database dump
+0002.548 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wffilechanges.table.gz (27/44): adding to final database dump
+0002.551 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wffilemods.table.gz (28/44): adding to final database dump
+0002.605 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfhits.table.gz (29/44): adding to final database dump
+0002.618 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfhoover.table.gz (30/44): adding to final database dump
+0002.621 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfissues.table.gz (31/44): adding to final database dump
+0002.625 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfknownfilelist.table.gz (32/44): adding to final database dump
+0002.639 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfleechers.table.gz (33/44): adding to final database dump
+0002.643 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wflivetraffichuman.table.gz (34/44): adding to final database dump
+0002.646 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wflocs.table.gz (35/44): adding to final database dump
+0002.650 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wflogins.table.gz (36/44): adding to final database dump
+0002.658 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfnotifications.table.gz (37/44): adding to final database dump
+0002.661 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfpendingissues.table.gz (38/44): adding to final database dump
+0002.665 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfreversecache.table.gz (39/44): adding to final database dump
+0002.667 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfscanners.table.gz (40/44): adding to final database dump
+0002.670 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfsnipcache.table.gz (41/44): adding to final database dump
+0002.671 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfstatus.table.gz (42/44): adding to final database dump
+0002.676 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wftrafficrates.table.gz (43/44): adding to final database dump
+0002.679 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db-table-innovatech_wfvulnscanners.table.gz (44/44): adding to final database dump
+0002.684 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db.gz: finished writing out complete database file (1392 KB)
+0002.721 (0) Total database tables backed up: 44 (backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db.gz, size: 1438958, sha256)
+0002.744 (0) backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0002.747 (0) Saving backup history. Total backup size: 1.4 MB
+0002.756 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0002.771 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0002.775 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d71056d97b5b63369d8b635a9c300d75)
+0006.305 (0) Google Drive: quota usage: used=8363.1 MB, total=10494123.1 MB, available=10485760 MB
+0006.308 (0) Google Drive: backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db.gz: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0007.192 (0) Googledrive chunked upload: 72.9 % uploaded (1048576)
+0009.196 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0009.208 (0) Google Drive: OK: Archive backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db.gz uploaded in 2.9 seconds
+0009.215 (0) Recording as successfully uploaded: backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db.gz
+0009.224 (0) Deleting local file: backup_2019-04-26-1521_innovatech_studio_Co_Ltd_4bef762ce2fb-db.gz: skipped: user has unchecked updraft_delete_local option
+0009.235 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.244 (0) These backup set(s) were imported from a remote location, so will not be counted or pruned. Skipping: 1555478280, 1555474320, 1555408500, 1555407780, 1555382700, 1555291260, 1554867480, 1554831540, 1554345660, 1554344640, 1553476860, 1552872000
+0009.249 (0) Number of backup sets in history: 15; groups (db): 1
+0009.256 (0) Examining (for databases) backup set with group_id=0, nonce=4bef762ce2fb, datestamp=1556259715 (Apr 26 2019 06:21:55)
+0009.260 (0) This backup set is the backup set just made, so will not be deleted.
+0009.260 (0) Examining (for databases) backup set with group_id=0, nonce=906515d76514, datestamp=1555541990 (Apr 17 2019 22:59:50)
+0009.260 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.263 (0) Examining (for databases) backup set with group_id=0, nonce=f931c5506ca4, datestamp=1555478342 (Apr 17 2019 05:19:02)
+0009.263 (0) 1555478342: db: this set includes a database (backup_2019-04-17-1419_innovatech_studio_Co_Ltd_f931c5506ca4-db.gz); db count is now 2
+0009.263 (0) 1555478342: db: over retain limit (2); will delete this database
+0009.263 (0) Delete file: backup_2019-04-17-1419_innovatech_studio_Co_Ltd_f931c5506ca4-db.gz, service=googledrive
+0012.978 (0) Google Drive: backup_2019-04-17-1419_innovatech_studio_Co_Ltd_f931c5506ca4-db.gz: Deletion failed: file was not found
+0012.986 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0012.988 (0) Number of backup sets in history: 15; groups (files): 1
+0012.992 (0) Examining (for files) backup set with nonce=4bef762ce2fb, datestamp=1556259715 (Apr 26 2019 06:21:55)
+0012.996 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0012.999 (0) Examining (for files) backup set with nonce=906515d76514, datestamp=1555541990 (Apr 17 2019 22:59:50)
+0012.999 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0013.002 (0) Examining (for files) backup set with nonce=f931c5506ca4, datestamp=1555478342 (Apr 17 2019 05:19:02)
+0013.002 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0013.004 (0) Retain: saving new backup history (sets now: 15) and finishing retain operation
+0013.021 (0) Resume backup (4bef762ce2fb, 0): finish run
+0013.031 (0) Decremented the semaphore (d) by 1
+0013.034 (0) Semaphore (d) unlocked
+0013.042 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0013.050 (0) No email will/can be sent - the user has not configured an email address.
+0013.054 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,314 @@
+@charset "UTF-8";
+/* CSS Document */
+div.LPwrapper{
+	width: 1024px;
+	margin: auto;
+}
+div.LPwrapper header{
+	height: unset;
+	text-align: center;
+}
+div.LPwrapper header img{
+	margin: auto;
+	display: block;
+}
+div.LPwrapper h1{
+	color: #000000;	
+	font-family: "Hiragino Sans";	
+	font-size: 24px;	
+	line-height: 36px;
+	text-align: center;
+	background: none;
+	margin-top: 65px;
+	margin-bottom: 50px;
+}
+div.LPwrapper h2{
+	color: #000000;
+	font-family: "Hiragino Sans";	
+	font-size: 22px;	
+	line-height: 33px;
+	background: none;
+	margin: 69px auto 50px auto;
+	text-align: center;
+}
+img.mainV{
+	position: relative;
+	display:inline-block;
+    overflow:hidden;
+}
+img.mainV::after{
+	content:"";
+    position:absolute;
+    top:0; right:0; bottom:0; left:0;
+	box-shadow:0px 7px 5px -2px #000;
+}
+div.projects01{
+	display: flex;
+	justify-content: space-around;
+	width: 882px;
+	margin: auto;
+}
+div.project01,div.project02,div.project03{
+	color: #225CFF;
+	font-family: "Hiragino Sans";	
+	font-size: 14px;	
+	line-height: 14px;	
+	text-align: center;
+	font-weight: bold;
+}
+div.projects01 img{
+	margin-bottom: 15px;
+}
+div.intro01 p{
+	color: #000000;	
+	font-family: "Hiragino Sans";
+	font-size: 14px;
+	line-height: 25px;
+	text-align: center;
+	margin: 60px auto 40px auto;
+	width: 882px;
+}
+div.CTA{
+	box-sizing: border-box;
+	height: 47px;	
+	width: 202px;	
+	border: 2px solid #225CFF;	
+	border-radius: 25px;	
+	background-color: #225CFF;	
+	box-shadow: 0 2px 45px 0 rgba(128,148,231,0.65);
+	text-align: center;
+	margin: auto;
+}
+div.CTA a{
+	color: #FFF;
+	line-height: 43px;
+	width: 100%;
+	display: block;
+	font-weight: bold;
+}
+div.CTA a:hover{
+	color: #10CAE8 !important;
+}
+div.intro02{
+	text-align: center;
+}
+div.guide{
+	text-align: center;
+}
+div.intro02 p{
+	color: #10CAE8;
+}
+div.intro02 div.guide a img{
+	margin: auto;
+	display: block;
+}
+div.newsletter{
+	background-color: #10CAE8;
+	height: 280px;
+	padding: 73px 0;
+	margin-top: 62px;
+}
+div.newsletter > h2{
+	color: #FFFFFF;	
+	font-family: "Hiragino Sans";	
+	font-size: 22px;	
+	line-height: 33px;	
+	text-align: center;
+	margin: auto auto 18px auto;
+}
+div.newsletter p{
+	color: #FFFFFF;	
+	text-align: center;
+}
+div.nsForm input{
+	display: inline-block;
+	text-align: center;
+}
+div.nsForm input.nsForm01{
+	height: 46px;	
+	width: 519px;	
+	border-top: 2px solid #FFFFFF;
+	border-left: 2px solid #FFFFFF;	
+	border-bottom: 2px solid #FFFFFF;
+	border-right: 0;
+	border-radius: 23px 0 0 23px;
+	background-color: #10CAE8;
+	color: #FFF;
+	margin-bottom: 0;
+	margin-top: -2px;
+	outline: none;
+}
+div.nsForm input.nsForm02{
+	height: 46px;	
+	width: 116px;	
+	margin-left: -45px;
+	border:2px;
+	background-color: #FFF;
+	color: #10CAE8;
+	font-weight: bold;
+	position: relative;
+}
+div.nsForm form{
+	margin: 35px auto auto auto;
+	width: 595px;
+}
+div.intro03{
+	background: url("../images/lp_internal/LP@2x.png") no-repeat center;
+	background-size:cover;
+	padding: 186px 0;
+}
+div.intro03 h3{
+	color: #10CAE8;	
+	font-family: "Hiragino Sans";	
+	font-size: 24px;	
+	line-height: 36px;	
+	text-align: center;
+	margin: 0 auto 100px auto;
+}
+div.projects02,
+div.projects03{
+	display: flex;
+	justify-content: space-between;
+	padding: 0 32px;
+}
+div.projects02 > div{
+	height: 460px;
+	width: 306px;	
+	border-radius: 10px;	
+	background-color: #FFFFFF;	
+	box-shadow: 0 0 16px 0 rgba(6,30,46,0.2);
+}
+div.projects02 > div >img{
+	height: 90px;
+	display: inline-block;
+	margin:auto;
+	margin-bottom: 42px;
+}
+div.projects02 > div p{
+	color: #2C2C2C;	
+	font-family: "Hiragino Sans";	
+	font-size: 14px;	
+	line-height: 25px;	
+	text-align: center;
+	font-weight: normal;
+}
+div.intro04{
+	background: linear-gradient(11.22deg, #32EDF9 0%, #0056FF 100%);
+	padding: 95px 0 200px 0;
+}
+div.intro04 > h2{
+	color: #FFFFFF;
+	font-family: "Hiragino Sans";
+	font-size: 24px;
+	line-height: 36px;
+	text-align: center;
+}
+div.projects03 > div{
+	width: 306px;	
+	border-radius: 10px;	
+	background-color: #FFFFFF;	
+	box-shadow: 0 0 16px 0 rgba(6,30,46,0.2);
+	padding: 34px 0;
+}
+div.projects03 > div > h2{
+	margin: 0 auto 15px auto;
+}
+div.projects03 > div > img{
+	height: 200px;
+	width:100%
+}
+div.projects03 > div > p {
+	width: 260px;
+	color: #000000;
+	font-family: "Hiragino Sans";
+	font-size: 14px;
+	line-height: 25px;
+	text-align: center;
+	display: block;
+	margin: auto;
+	font-weight: normal;
+	margin-top: 20px;
+}
+div.intro04 > p{
+	height: 14px;
+	color: #FFFFFF;
+	font-family: "Hiragino Sans";
+	font-size: 14px;
+	line-height: 21px;
+	text-align: center;
+	display: block;
+	margin: 50px auto;
+}
+.CTA2 > a {
+	box-sizing: border-box;
+	height: 47px;
+	width: 202px;
+	border: 2px solid #FFFFFF;
+	border-radius: 25px;
+	background-color: #FFFFFF;
+	box-shadow: 0 2px 45px 0 rgba(128,148,231,0.65);
+	display: block;
+	margin: auto;
+	text-align: center;
+	line-height: 47px;
+	color: #10CAE8;
+	font-family: "Hiragino Sans";
+	font-size: 16px;
+	font-weight: bold;
+}
+div.senkoForm{
+	background: url("../images/lp_internal/BGform.png") no-repeat center top;
+	background-size:cover;
+	margin-top: -120px;
+	padding-bottom: 200px;
+}
+div.senkoForm > div{
+	width: 680px;
+	margin: auto;
+	padding: 160px 0 0 0;
+	text-align: center
+}
+div.senkoForm input{
+	height: 46px;
+	width: 635px;
+	border-radius: 23px;
+	background-color: #DBF3FF;
+	border: 0;
+	margin: auto auto 30px auto;
+	outline: none;
+	padding: 15px 20px;
+}
+div.senkoForm textarea{
+	height: 160px;
+	width: 635px;
+	border-radius: 25px;
+	background-color: #DBF3FF;
+	margin: auto auto 30px auto;
+	border:0;
+	outline: none;
+	padding: 15px 20px;
+}
+div.senkoForm input.senkoFormsbmt{
+	box-sizing: border-box;
+	height: 47px;
+	width: 202px;
+	border: 2px solid #225CFF;
+	border-radius: 25px;
+	box-shadow: 0 2px 45px 0 rgba(128,148,231,0.65);
+	margin: auto;
+	color: #225CFF;
+	font-family: "Hiragino Sans";
+	font-size: 16px;
+	line-height: 47px;
+	text-align: center;
+	display: block;
+	background-color: #FFF;
+	padding: 0;
+}
+div.lpInternal div.pagePost{
+	display: none;
+	margin: 0;
+	padding: 0;
+}
+div.senkoForm textarea::placeholder,div.senkoForm input::placeholder{ 
+}

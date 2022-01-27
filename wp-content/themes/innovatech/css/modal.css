@@ -1,0 +1,373 @@
+.modal-dialog {
+    color: white;
+    min-width: 90%;
+}
+
+.modal-title {
+    float: left;
+    margin: 30px;
+    margin-left: 50px;
+}
+
+.modal p {
+    text-align: center;
+}
+
+.modal-content button img {
+    padding-right: 55px;
+}
+
+.contact-btn i {
+    margin-top: 24px;
+}
+
+.modal h1 {
+    background-size: 20% 5%;
+    background: url(../images/Line.png) no-repeat left bottom;
+}
+
+.wpcf7 form {
+    autocomplete: off;
+}
+
+.form-control:focus {
+    background-color: transparent;
+    color: white;
+}
+
+.modal button {
+    color: white;
+    font-family: 'MarkBold';
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 25px;
+}
+
+.modal .btn-primary {
+    border: solid 3px white;
+}
+
+.modal .btn-secondary {
+    border: solid 3px transparent;
+}
+
+.modal h2 {
+    background: none;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.modal input[type=text]:focus {
+    outline: orange 2px;
+    color: white;
+  }
+
+.modal-number {
+    font-size: 50px;
+    padding-top: 32px;
+    text-align: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.modal-content {
+    min-height: 620px;
+}
+
+.contact-modal-1 {
+    background-image: linear-gradient(90deg, #33edf8, #26c7fa);
+}
+
+.contact-modal-2 {
+    background-image: linear-gradient(90deg, #00c9ff, #00a1ff);
+}
+
+.contact-modal-3 {
+    background-image: linear-gradient(90deg, #00a3ff, #007aff);
+}
+
+.contact-modal-4 {
+    background-image: linear-gradient(90deg, #007aff, #0050ff);
+}
+
+.contact-confirmation {
+    background-image: linear-gradient(90deg, #0e56ff, #0e56ff);
+}
+
+.recruit-modal-1 {
+    background-image: linear-gradient(90deg, #33edf8, #26c7fa);
+}
+
+.recruit-modal-2 {
+    background-image: linear-gradient(90deg, #00c9ff, #00a1ff);
+}
+
+.recruit-modal-3 {
+    background-image: linear-gradient(90deg, #00a3ff, #007aff);
+}
+
+.recruit-modal-4 {
+    background-image: linear-gradient(90deg, #007aff, #0050ff);
+}
+
+.recruit-confirmation {
+    background-image: linear-gradient(90deg, #0e56ff, #0e56ff);
+}
+
+.contact-confirmation h1 {
+    text-align: center;
+    background: none;
+}
+
+.contact-confirmation .modal-title {
+    float: none;
+}
+
+.contact-confirmation h2 {
+    text-align: center;
+}
+
+.contact-confirmation img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 75px;
+    padding-bottom: 40px;
+}
+
+.recruit-confirmation h1 {
+    text-align: center;
+    background: none;
+}
+
+.recruit-confirmation .modal-title {
+    float: none;
+}
+
+.recruit-confirmation h2 {
+    text-align: center;
+}
+
+.recruit-confirmation img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 75px;
+    padding-bottom: 40px;
+}
+
+.modal-dialog input {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+    color: white !important; 
+    font-size: 20px;
+    font-family: 'MarkBold';
+    border-bottom-color: white;
+}
+
+.modal-dialog input ::placeholder {
+    color: #ccfbfe;
+}
+
+.modal-dialog input ::selection {
+    color: #fff !important;
+}
+
+.modal textarea {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: white;
+    color: white;
+    font-size: 20px;
+    font-family: 'MarkBold';
+    margin-bottom: 20px;
+}
+
+.form-control::-webkit-input-placeholder { color: #ccfbfe ; }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: #ccfbfe; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: #ccfbfe; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: #ccfbfe; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: #ccfbfe; }  /* Microsoft Edge */
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-footer {
+    text-align: center;
+    border-top: none;
+    bottom: 0;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+
+.dotstyle {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 50px;
+}
+
+.dotstyle ul {
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	cursor: default;
+}
+
+.dotstyle li {
+	position: relative;
+	display: block;
+	float: left;
+	margin: 0 16px;
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+}
+
+.dotstyle li a {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	outline: none;
+	border-radius: 50%;
+	background-color: #fff;
+	background-color: rgba(255,255,255,0.3);
+	text-indent: -999em;
+	cursor: pointer; /* make the text accessible to screen readers */
+	position: absolute;
+}
+
+/* Fill up */
+.dotstyle-fillup li a {
+	overflow: hidden;
+	background-color: rgba(0,0,0,0);
+	box-shadow: inset 0 0 0 2px rgba(255,255,255,1);
+	transition: background 0.3s;
+}
+
+.dotstyle-fillup li a::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	height: 0;
+	left: 0;
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 0 0 1px #fff;
+	transition: height 0.3s;
+}
+
+.dotstyle-fillup li a:hover,
+.dotstyle-fillup li a:focus {
+	background-color: rgba(0,0,0,0.2);
+}
+
+.dotstyle-fillup li.current a::after {
+	height: 100%;
+}
+
+/* SVG draw circle stroke */	
+.dotstyle-drawcircle li {
+	width: 18px;
+	height: 18px;
+}
+
+.dotstyle-drawcircle li a {
+	top: 3px;
+	left: 3px;
+	width: 12px;
+	height: 12px;
+	background-color: #1d1212;
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+}
+
+.dotstyle-drawcircle li svg {
+	z-index: 10;
+}
+
+.dotstyle-drawcircle li svg circle {
+	opacity: 0;
+	fill: none;
+	stroke: #fff;
+	stroke-width: 3;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-dasharray: 39 39; 
+	stroke-dashoffset: 39; /* ~ length of circle path (pi*2r) */
+	transition: stroke-dashoffset 0.3s, opacity 0.3s;
+}
+
+.dotstyle-drawcircle li.current a,
+.dotstyle-drawcircle li a:hover,
+.dotstyle-drawcircle li a:focus {
+	opacity: 0.5;
+}
+
+.dotstyle-drawcircle li.current svg circle {
+    opacity: 1;
+    stroke-dashoffset: 0;
+	transition: stroke-dashoffset 0.3s, opacity 0.15s;
+}
+
+.contact-btn .wpcf7-response-output {
+    display: none !important;
+}
+
+.modal-body {
+    /* z-index: 99; */
+}
+
+.modal font {
+    vertical-align: initial !important;
+}
+
+@media (max-width: 550px) {
+    .modal h1 {
+        font-size: 30px;
+    }
+
+    .modal h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .modal .btn {
+        font-size: 17px;
+    }
+
+    .modal-dialog input {
+        font-size: 15px;
+    }
+    .modal-dialog textarea {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 350px) {
+    .modal-content button img {
+        padding-right: 20px;
+    }
+
+    .modal-title {
+        margin: 30px;
+    }
+}
+
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical > .btn-group:before, .btn-group-vertical > .btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-header:before, .modal-header:after, .modal-footer:before, .modal-footer:after {
+    content: normal;
+}
+
+.modal .btn {
+    padding: 6px 12px !important;
+    padding-top: 6px !important;
+    padding-right: 12px !important;
+    padding-bottom: 6px !important;
+    padding-left: 12px !important;
+}

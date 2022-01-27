@@ -1,0 +1,38 @@
+[2019-05-28 09:38:05 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 28, 2019 09:38:05 
+[2019-05-28 09:43:17 : INFO] - 
+ 
+[2019-05-28 09:43:17 : INFO] - Header for logs at time:  Tue, 28 May 2019 09:43:17 +0000 on https://staging.innovatech.studio 
+[2019-05-28 09:43:17 : INFO] - WP: 5.2.1 
+[2019-05-28 09:43:17 : INFO] - PHP: 7.3.4 (fpm-fcgi, Linux innovatech-sgp-02 4.15.0-47-generic #50-Ubuntu SMP Wed Mar 13 10:44:52 UTC 2019 x86_64) 
+[2019-05-28 09:43:17 : INFO] - MySQL: 5.5.5 
+[2019-05-28 09:43:17 : INFO] - WPLANG: en_US 
+[2019-05-28 09:43:17 : INFO] - Server: Apache/2.4.39 (Unix) OpenSSL/1.1.0g 
+[2019-05-28 09:43:17 : INFO] - Outbound connections: N 
+[2019-05-28 09:43:17 : INFO] - safe_mode: 0 
+[2019-05-28 09:43:17 : INFO] - max_execution_time: 30 
+[2019-05-28 09:43:17 : INFO] - memory_limit: 256M (used: 7.5M | 8M) 
+[2019-05-28 09:43:17 : INFO] - multisite: N 
+[2019-05-28 09:43:17 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2019-05-28 09:43:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-05-28 09:43:17 : INFO] - Re_Smush_It_Task with attachment ID : 235, autocreated on : May 28, 2019 09:38:05 
+[2019-05-28 09:43:17 : INFO] - 100 
+[2019-05-28 09:43:20 : INFO] - Backing up the original image - /home/runcloud/webapps/innovatech/wp-content/uploads/2019/05/44_barack_obama1-updraft-pre-smush-original.jpg 
+[2019-05-28 09:43:20 : INFO] - Successfully optimized the image - /home/runcloud/webapps/innovatech/wp-content/uploads/2019/05/44_barack_obama1.jpg.The file was compressed from 236.08 KB to 210.94 KB saving 10.65 percent using WP-Optimize 
+[2019-05-28 09:43:20 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2019-05-28 09:43:20 : INFO] - Successfully processed the queue (smush). A total of 1 tasks were processed. 
+[2019-05-28 09:43:20 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2019-05-28 10:00:03 : INFO] - 
+ 
+[2019-05-28 10:00:03 : INFO] - Header for logs at time:  Tue, 28 May 2019 10:00:03 +0000 on http://staging.innovatech.studio 
+[2019-05-28 10:00:03 : INFO] - WP: 5.2.1 
+[2019-05-28 10:00:03 : INFO] - PHP: 7.3.4 (cli, Linux innovatech-sgp-02 4.15.0-47-generic #50-Ubuntu SMP Wed Mar 13 10:44:52 UTC 2019 x86_64) 
+[2019-05-28 10:00:03 : INFO] - MySQL: 5.5.5 
+[2019-05-28 10:00:03 : INFO] - WPLANG: ja 
+[2019-05-28 10:00:03 : INFO] - Server:  
+[2019-05-28 10:00:03 : INFO] - Outbound connections: N 
+[2019-05-28 10:00:03 : INFO] - safe_mode: 0 
+[2019-05-28 10:00:03 : INFO] - max_execution_time: 0 
+[2019-05-28 10:00:03 : INFO] - memory_limit: 256M (used: 44.3M | 46.5M) 
+[2019-05-28 10:00:03 : INFO] - multisite: N 
+[2019-05-28 10:00:03 : INFO] - openssl: OpenSSL 1.1.0g  2 Nov 2017 
+[2019-05-28 10:00:03 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

@@ -1,0 +1,975 @@
+# Translation of Themes - Specia in Japanese
+# This file is distributed under the same license as the Themes - Specia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-09 06:21:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Specia\n"
+
+#. Description of the plugin/theme
+msgid "Specia is a Multipurpose WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. Well suited for any type of websites - business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. Specia is made on its cross-browser compatibility. It consists of: Slider, Call to Action, Service, Features, Latest Posts, Sticky Header, Social Icons, Payment Icons and Four Column blocks in Footer. This theme has several customization options that are available WordPress Theme Customizer. Specia is WPML, Polylang compatible and it´s translation ready. Specia works fine with WordPress popular plugins like WooCommerce, Contact Form 7, Ninja Form, Jetpack, WP-featherlight, Give - WordPress Donation Plugin, Open Table Widget, Page Links To, Gravity Forms, Yoast SEO, and many others. Get more features in the premium version. It has multiple useful sections on the homepage - Slider, Call to Action, Services, Features, Filterable Portfolio, Plans & Pricing, Testimonials, Teams, and Clients. Following page templates ready for publishing like: about, service, portfolio, portfolio filter, pricing, blog full width, blog left sidebar, blog right sidebar, blog masonry, and contact. What are you waiting for? Let's start downloading this amazing and beautiful Free Multipurpose WordPress Theme right away. View the demo of Specia Premium http://demo.speciatheme.com/pro/?theme=specia"
+msgstr ""
+"Specia はオンライン・ウェブサイトにプロフェッショナルな要素を迅速に反映させることのできる多目的機能を兼ね備えたWordPress テーマです。ポートフォリオ、飲食、レストラン、ジム、フィットネス、スパサロン、医療、病院、リンク先ページ、製品紹介、コーポレート事業、デジタルエージェンシー、製品ショーケース、財務顧問、経理、法律事務所、気象予報、写真、電子商取引ストア等のあらゆるウェブサイトビジネスに適用しています。Specia は各ブラウザー間の互換性に大変優れています。スライダー、操作の呼びかけ、サービス、機能、最新投稿、スティッキーヘッダー、ソーシャルアイコン、支払いアイコンに加え4列のブロックでフッターが構成されています。また多様なカスタム化のオプションに対応することができます。Specia は WPML や Polylang との互換性に加え、多言語対応が可能です。さらにはWooCommerce, Contact Form 7, Ninja Form, Jetpack, WP-featherlight, Give - WordPress Donation Plugin, Open Table Widget, Page Links To, Gravity Forms, Yoast SEO 等のような WordPress プラグインにおいてより良く機能しています。プレミアムバージョンではより多くの機能にアクセスすることができます。ページ上ではスライダー、操作の呼びかけ、サービス、機能、フィルタリング機能付ポートフォリオ、プランと価格、お客様からの問い合わせ、チーム、顧客など多様な区分に分けられています。これに基づきサービス、ポートフォリオ、ポートフォリオフィルター、価格設定、ブログ全幅、ブログ左側のサイドバー、ブログ右側のサイドバー、ブログ蓄積保存、連絡先の公開が可能となっています。いかがでしょうか ?\n"
+" 画期的で多目的なWordPress テーマが無料でダウンロードしていただけます。プレミアムバージョンの紹介 http://demo.speciatheme.com/pro/?theme=specia"
+
+#: inc/customize/specia-premium.php:36
+msgid "Support Center"
+msgstr "サポートセンター"
+
+#: inc/customize/specia-premium.php:32
+msgid "View Details"
+msgstr "詳細を表示"
+
+#: inc/customize/specia-premium.php:14
+msgid "Upgrade to Premium"
+msgstr "プレミアムプランへアップグレード"
+
+#: inc/theme-info.php:473 inc/theme-info.php:716
+msgid "Pricing Page"
+msgstr "価格ページ"
+
+#: inc/theme-info.php:467 inc/theme-info.php:710
+msgid "Service Page"
+msgstr "サービスページ"
+
+#: inc/theme-info.php:462 inc/theme-info.php:705
+msgid "About Page"
+msgstr "About ページ"
+
+#: inc/theme-info.php:142
+msgid "<b>3</b> Slides"
+msgstr "<b>3</b> スライド"
+
+#: inc/theme-info.php:69
+msgid "Contact Form 7 Plugin Supports"
+msgstr "Contact Form 7 プラグインサポート"
+
+#: inc/theme-info.php:67
+msgid "WPML & Polylang Plugin Supports"
+msgstr "WPML & Polylang プラグインサポート"
+
+#. Template Name of the plugin/theme
+msgid "Blog Masonry"
+msgstr "ブログ Masonry"
+
+#: inc/customize/specia-premium.php:34 inc/upsale/class-customize.php:77
+msgid "Buy Now"
+msgstr "今すぐ購入"
+
+#: inc/theme-info.php:366
+msgid "Buy Proficient Now"
+msgstr "今すぐ Proficient を購入する"
+
+#: inc/theme-info.php:305
+msgid "Why Choose Proficient Premium?"
+msgstr "Proficient を選ぶ理由"
+
+#: inc/theme-info.php:288
+msgid "Proficient is the right theme for you if you are looking for a multipurpose theme that can handle everything you throw at it. It is perfect for business themes, marketing, corporate startup, agency, blog, business, company, corporate, creative, portfolio, professional and more. The design is easy to change and adapt to the client needs. The theme has all the modern functionality such as: slider, services, blogs and much more."
+msgstr "Proficient は多目的分野に対応することができるという特徴を兼ね揃えています。商業、マーケティング、企業立ち上げ、代理店、ブログ、商業、企業、会社、創造、ポートフォリオそして専門的な内容などビジネスシーンに最適です。デザインは容易に修正することが可能なため各顧客のニーズに対応することができます。機能のとしてはスライダー、サービス、ブログなど最新のものとなっています。"
+
+#: inc/theme-info.php:287
+msgid "Proficient Premium WordPress Theme"
+msgstr "Proficient プレミアムバーション WordPress テーマ"
+
+#: inc/theme-info.php:268 inc/theme-info.php:511 inc/theme-info.php:754
+msgid "<b>Premium</b> <a href='https://specia.ticksy.com/' target='_blank'>Help Desk</a></i></a>"
+msgstr "<b>プレミアム</b> <a href='https://specia.ticksy.com/' target='_blank'>ヘルプデスク</a></i></a>"
+
+#: inc/theme-info.php:267 inc/theme-info.php:510 inc/theme-info.php:753
+msgid "<b>Free</b> <a href='https://specia.ticksy.com/' target='_blank'>Help Desk</a>"
+msgstr "<b>無料</b> <a href='https://specia.ticksy.com/' target='_blank'>ヘルプデスク</a>"
+
+#: inc/theme-info.php:266 inc/theme-info.php:509 inc/theme-info.php:752
+msgid "Awesome Fast Support"
+msgstr "Awesome Fast Support"
+
+#: inc/theme-info.php:260 inc/theme-info.php:503 inc/theme-info.php:746
+msgid "Custom Page Template"
+msgstr "ページテンプレートのカスタム"
+
+#: inc/theme-info.php:254 inc/theme-info.php:497 inc/theme-info.php:740
+msgid "Photo Gallery</span>"
+msgstr "フォトギャラリー</span>"
+
+#: inc/theme-info.php:248 inc/theme-info.php:491 inc/theme-info.php:734
+msgid "Breadcrumbs</span>"
+msgstr "パンくずリスト</span>"
+
+#: inc/theme-info.php:242 inc/theme-info.php:485 inc/theme-info.php:728
+msgid "Website Layouts"
+msgstr "ウェブサイトのレイアウト"
+
+#: inc/theme-info.php:236 inc/theme-info.php:479 inc/theme-info.php:722
+msgid "Preset Background & Colors"
+msgstr "プリセットの背景 & 色"
+
+#: inc/theme-info.php:230
+msgid "Custom Pricing Page"
+msgstr "価格ぺ－ジのカスタム"
+
+#: inc/theme-info.php:224
+msgid "Custom Service Page"
+msgstr "サービスページのカスタム"
+
+#: inc/theme-info.php:219
+msgid "Custom About Page"
+msgstr "About ページのカスタム"
+
+#: inc/theme-info.php:207 inc/theme-info.php:450 inc/theme-info.php:693
+msgid "WPML & Polylang Support"
+msgstr "WPML & Polylang サポート"
+
+#: inc/theme-info.php:201 inc/theme-info.php:444 inc/theme-info.php:687
+msgid "Attractive Blog Pages"
+msgstr "魅力的なブログぺージ"
+
+#: inc/theme-info.php:189 inc/theme-info.php:432 inc/theme-info.php:675
+msgid "Client/Sponsor Section"
+msgstr "顧客 / スポンサーセクション"
+
+#: inc/theme-info.php:183 inc/theme-info.php:426 inc/theme-info.php:669
+msgid "Testimonial Section"
+msgstr "お客様の声セクション"
+
+#: inc/theme-info.php:171 inc/theme-info.php:414 inc/theme-info.php:657
+msgid "WooCommerce Compatibility"
+msgstr "WooCommerce の互換性"
+
+#: inc/theme-info.php:167 inc/theme-info.php:410 inc/theme-info.php:653
+msgid "<b>Unlimited Portfolio</b>"
+msgstr "<b>無制限ポートフォリオ</b>"
+
+#: inc/theme-info.php:149 inc/theme-info.php:392 inc/theme-info.php:635
+msgid "<b>5 Animation</b> with Custom Buttons"
+msgstr "<b>5 アニメーション</b> カスタムボタン付き"
+
+#: inc/theme-info.php:147 inc/theme-info.php:390 inc/theme-info.php:633
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: inc/theme-info.php:141 inc/theme-info.php:384 inc/theme-info.php:627
+msgid "Touch & Swipe Slider"
+msgstr "タッチ & スワイプスライダー"
+
+#: inc/theme-info.php:135 inc/theme-info.php:378 inc/theme-info.php:621
+msgid "Custom Logo & Favicon"
+msgstr "カスタムロゴ & ファビコン"
+
+#: inc/theme-info.php:129 inc/theme-info.php:372 inc/theme-info.php:615
+msgid "Header Soical Icons & Contact Info"
+msgstr "ヘッダーソーシャルアイコン & 連絡先情報"
+
+#: inc/theme-info.php:123
+msgid "Buy Specia Now"
+msgstr "今すぐ Specia を購入"
+
+#: inc/theme-info.php:114 inc/theme-info.php:357 inc/theme-info.php:600
+msgid "Enhance your website with premium version"
+msgstr "プレミアムバージョンでウェブサイトを強化"
+
+#: inc/theme-info.php:81 inc/theme-info.php:324 inc/theme-info.php:567
+msgid "Background Patterns"
+msgstr "背景パターン"
+
+#: inc/theme-info.php:45
+msgid "Specia is a Multipurpose WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. Well suited for any type of websites - business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, photography, personal, real estate and eCommerce stores."
+msgstr "Specia はオンライン・ウェブサイトにプロフェッショナルな要素を迅速に反映させることのできる多目的機能を兼ね備えた WordPress テーマです。ポートフォリオ、飲食、レストラン、ジム、フィットネス、スパサロン、医療、病院、リンク先ページ、製品紹介、コーポレート事業、デジタルエージェンシー、製品ショーケース、財務顧問、経理、法律事務所、気象予報、写真、電子商取引ストア等のあらゆるウェブサイトビジネスに適用しています。"
+
+#: inc/theme-info.php:28
+msgid "Proficient Theme"
+msgstr "Proficient テーマ"
+
+#: inc/theme-info.php:27
+msgid "Specia Theme"
+msgstr "Specia テーマ"
+
+#: inc/template-tags.php:189 inc/upsale/class-customize.php:76
+msgid "Premium Themes"
+msgstr "プレミアムテーマ"
+
+#: inc/template-tags.php:179
+msgid "theme info page"
+msgstr "テーマ情報ページ"
+
+#: inc/template-tags.php:178
+msgid "Welcome to Specia! Info about the theme can be found at your"
+msgstr "Speciaにようこそ ! テーマに関する情報: "
+
+#: inc/customize/specia-header-section.php:311
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customize/specia-call-action.php:95
+msgid "Button Text"
+msgstr "ボタンのテキスト"
+
+#: inc/customize/specia-blog.php:105 inc/customize/specia-call-action.php:55
+#: inc/customize/specia-portfolio.php:104 inc/customize/specia-service.php:105
+#: inc/customize/specia-slider-section.php:60
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/customize/specia-blog.php:73 inc/customize/specia-features.php:73
+#: inc/customize/specia-portfolio.php:72 inc/customize/specia-service.php:73
+msgid "Section Title"
+msgstr "セクションタイトル"
+
+#: inc/customize/specia-blog.php:55 inc/customize/specia-features.php:55
+#: inc/customize/specia-portfolio.php:54 inc/customize/specia-service.php:55
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/customize/specia-blog.php:38 inc/customize/specia-call-action.php:38
+#: inc/customize/specia-features.php:38 inc/customize/specia-portfolio.php:38
+#: inc/customize/specia-service.php:38
+#: inc/customize/specia-slider-section.php:43
+msgid "Hide / Show Section"
+msgstr "セクションを表示 / 非表示"
+
+#: inc/customize/specia-blog.php:21 inc/customize/specia-call-action.php:21
+#: inc/customize/specia-features.php:21 inc/customize/specia-portfolio.php:21
+#: inc/customize/specia-service.php:21
+#: inc/customize/specia-slider-section.php:25
+msgid "Settings"
+msgstr "設定"
+
+#: inc/theme-info.php:256 inc/theme-info.php:499 inc/theme-info.php:742
+msgid "<b>Jetpack</b> Gallery Support"
+msgstr "<b>Jetpack</b> ギャラリーサポート"
+
+#: inc/theme-info.php:255 inc/theme-info.php:498 inc/theme-info.php:741
+msgid "Core Gallery Support"
+msgstr "コアギャラリーのサポート"
+
+#: inc/theme-info.php:250 inc/theme-info.php:493 inc/theme-info.php:736
+msgid "Background Color & Background Image"
+msgstr "背景色 & 背景画像"
+
+#: inc/theme-info.php:166 inc/theme-info.php:409 inc/theme-info.php:652
+msgid "3 Portfolio"
+msgstr "3種のポートフォリオ"
+
+#: inc/theme-info.php:161 inc/theme-info.php:404 inc/theme-info.php:647
+msgid "With background color and background image"
+msgstr "背景色と背景画像"
+
+#: inc/theme-info.php:160 inc/theme-info.php:403 inc/theme-info.php:646
+msgid "With background color"
+msgstr "背景色"
+
+#: inc/theme-info.php:155 inc/theme-info.php:398 inc/theme-info.php:641
+msgid "<b>Unlimited</b> Services (Icons & Image) with <b>Own Link</b>"
+msgstr "<b>任意のリンク</b>付きの<b>無制限の</b>サービス (アイコン & 画像)"
+
+#: inc/theme-info.php:154 inc/theme-info.php:397 inc/theme-info.php:640
+msgid "3 Services"
+msgstr "3種のサービス"
+
+#: inc/theme-info.php:148 inc/theme-info.php:391 inc/theme-info.php:634
+msgid "<b>1 Animation</b> with background color"
+msgstr "<b>1 アニメーション</b> 背景色付き"
+
+#: inc/theme-info.php:143 inc/theme-info.php:386 inc/theme-info.php:629
+msgid "<b>Unlimited Slides</b> with more features"
+msgstr "<b>無制限のスライド</b>とその他機能"
+
+#: inc/theme-info.php:385 inc/theme-info.php:628
+msgid "<b>3 Slides</b> Supports"
+msgstr "<b>3 スライド</b> サポート"
+
+#: inc/theme-info.php:122 inc/theme-info.php:365 inc/theme-info.php:608
+msgid "Free Download"
+msgstr "無料ダウンロード"
+
+#: inc/theme-info.php:113 inc/theme-info.php:356 inc/theme-info.php:599
+msgid "Premium"
+msgstr "プレミアム版"
+
+#: inc/theme-info.php:109 inc/theme-info.php:352 inc/theme-info.php:595
+msgid "Free"
+msgstr "フリー"
+
+#: inc/theme-info.php:91 inc/theme-info.php:334 inc/theme-info.php:577
+msgid "4 Column Footer"
+msgstr "4カラムフッター"
+
+#: inc/theme-info.php:90 inc/theme-info.php:333 inc/theme-info.php:576
+msgid "Awesome Support"
+msgstr "その他サポート"
+
+#: inc/theme-info.php:89 inc/theme-info.php:332 inc/theme-info.php:575
+msgid "Extensive Documentation"
+msgstr "豊富なドキュメント"
+
+#: inc/theme-info.php:88 inc/theme-info.php:331 inc/theme-info.php:574
+msgid "Breadcrumbs Ready"
+msgstr "パンくずリスト対応"
+
+#: inc/theme-info.php:87 inc/theme-info.php:330 inc/theme-info.php:573
+msgid "Blog Paginations"
+msgstr "ブログのページネーション"
+
+#: inc/theme-info.php:86 inc/theme-info.php:329 inc/theme-info.php:572
+msgid "Footer Copyright Editor"
+msgstr "フッターの著作権編集"
+
+#: inc/theme-info.php:83 inc/theme-info.php:326 inc/theme-info.php:569
+msgid "Custom Sidebars"
+msgstr "カスタムサイドバー"
+
+#: inc/theme-info.php:82 inc/theme-info.php:195 inc/theme-info.php:325
+#: inc/theme-info.php:438 inc/theme-info.php:568 inc/theme-info.php:681
+msgid "Filterable Portfolio"
+msgstr "フィルタリング可能なポートフォリオ"
+
+#: inc/theme-info.php:80 inc/theme-info.php:323 inc/theme-info.php:566
+msgid "Unlimited Colors"
+msgstr "無制限の色"
+
+#: inc/theme-info.php:79 inc/theme-info.php:322 inc/theme-info.php:565
+msgid "Social Media Integration"
+msgstr "ソーシャルメディア統合"
+
+#: inc/theme-info.php:78 inc/theme-info.php:321 inc/theme-info.php:564
+msgid "Prebuilt Theme Color"
+msgstr "テーマカラーを調整"
+
+#: inc/theme-info.php:77 inc/theme-info.php:320 inc/theme-info.php:563
+msgid "Editable Post Slug"
+msgstr "編集可能な投稿スラッグ"
+
+#: inc/theme-info.php:76 inc/theme-info.php:319 inc/theme-info.php:562
+msgid "Google Maps"
+msgstr "Google マップ"
+
+#: inc/theme-info.php:75 inc/theme-info.php:318 inc/theme-info.php:561
+msgid "Wide & Boxed Layout"
+msgstr "ワイド & ボックスレイアウト"
+
+#: inc/theme-info.php:73 inc/theme-info.php:85 inc/theme-info.php:213
+#: inc/theme-info.php:316 inc/theme-info.php:328 inc/theme-info.php:456
+#: inc/theme-info.php:559 inc/theme-info.php:571 inc/theme-info.php:699
+msgid "Section Order Manager"
+msgstr "セクションオーダーマネージャー"
+
+#: inc/theme-info.php:72 inc/theme-info.php:315 inc/theme-info.php:558
+msgid "Custom Widget"
+msgstr "カスタムウィジェット"
+
+#: inc/theme-info.php:71 inc/theme-info.php:314 inc/theme-info.php:557
+msgid "12 Page Templates"
+msgstr "12のページテンプレート"
+
+#: inc/theme-info.php:70 inc/theme-info.php:313 inc/theme-info.php:556
+msgid "Ninja Form Support"
+msgstr "Ninja Form サポート"
+
+#: inc/theme-info.php:312 inc/theme-info.php:555
+msgid "Contact Form 7 Supports"
+msgstr "Contact Form 7 サポート"
+
+#: inc/theme-info.php:68 inc/theme-info.php:311 inc/theme-info.php:554
+msgid "WooCommerce Ready"
+msgstr "WooCommerce 対応"
+
+#: inc/theme-info.php:310 inc/theme-info.php:553
+msgid "WPML & Polylang Supports"
+msgstr "WPML & Polylang サポート"
+
+#: inc/theme-info.php:66 inc/theme-info.php:177 inc/theme-info.php:309
+#: inc/theme-info.php:420 inc/theme-info.php:552 inc/theme-info.php:663
+msgid "Translation Ready"
+msgstr "翻訳対応"
+
+#: inc/theme-info.php:65 inc/theme-info.php:308 inc/theme-info.php:551
+msgid "Browser Compatibility"
+msgstr "ブラウザー互換性"
+
+#: inc/theme-info.php:64 inc/theme-info.php:307 inc/theme-info.php:550
+msgid "Responsive Design"
+msgstr "レスポンシブデザイン"
+
+#: inc/theme-info.php:62
+msgid "Why Choose Specia Premium?"
+msgstr "Specia Premium をなぜ選ぶのか ?"
+
+#: inc/theme-info.php:44
+msgid "Specia Premium WordPress Theme"
+msgstr "Specia Premium WordPress Theme"
+
+#: inc/theme-info.php:50 inc/theme-info.php:293 inc/theme-info.php:536
+msgid "Buy Premium"
+msgstr "プレミアム版を購入する"
+
+#: inc/customize/specia-premium.php:30 inc/theme-info.php:48
+#: inc/theme-info.php:291 inc/theme-info.php:534
+msgid "Premium Demo"
+msgstr "プレミアム版デモ"
+
+#: inc/customize/specia-header-section.php:291
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#. Template Name of the plugin/theme
+msgid "Homepage One"
+msgstr "Homepage One"
+
+#. Template Name of the plugin/theme
+msgid "Page Fullwidth"
+msgstr "全幅ページ"
+
+#. Template Name of the plugin/theme
+msgid "Blog Left Sidebar"
+msgstr "ブログ左サイドバー"
+
+#. #-#-#-#-#  specia.pot (Specia 2.2.51)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#. #-#-#-#-#  specia.pot (Specia 2.2.51)  #-#-#-#-#
+#. Author of the plugin/theme
+msgid "Specia"
+msgstr "Specia"
+
+#: template-parts/content.php:70
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: sections/specia-navigation.php:29
+msgid "Toggle navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "404 エラー"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "タグ別アーカイブ: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "カテゴリー別アーカイブ: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#. translators: %s: Name of current post.
+#: sections/specia-blog.php:76 sections/specia-slider.php:58
+#: template-parts/content-page.php:64 template-parts/content-search.php:66
+#: template-parts/content.php:65
+msgid "Read More"
+msgstr "もっと見る"
+
+#: search.php:10
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/widget/widget_feature.php:84
+msgid "Features Description:"
+msgstr "特集の説明:"
+
+#: inc/widget/widget_feature.php:79
+msgid "Features Icons:"
+msgstr "特集のアイコン:"
+
+#: inc/widget/widget_feature.php:74
+msgid "Features Title:"
+msgstr "特集のタイトル:"
+
+#: inc/widget/widget_feature.php:16
+msgid "Features Widget"
+msgstr "特集ウィジェット"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:64
+msgid "Edit %s"
+msgstr "編集 %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:57
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> にコメントを残す"
+
+#: inc/template-tags.php:50
+msgid "Tagged %1$s"
+msgstr "タグ:  %1$s"
+
+#: inc/template-tags.php:44
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:48
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:25
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#: inc/template-tags.php:20
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: inc/sidebar/sidebar.php:36
+msgid "This Widget area for WooCommerce Widget"
+msgstr "WooCommerce ウィジェットのウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:34
+msgid "WooCommerce Widget Area"
+msgstr "WooCommerce ウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:26
+msgid "The Features Widget Area for Home Features"
+msgstr "ホームの特集用ウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:24 inc/widget/widget_feature.php:19
+msgid "Features Widget Area"
+msgstr "特集ウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:16
+msgid "The Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:14
+msgid "Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:6
+msgid "The Primary Widget Area"
+msgstr "メインウィジェットエリア"
+
+#: inc/sidebar/sidebar.php:4
+msgid "Sidebar Widget Area"
+msgstr "サイドバーウィジェットエリア"
+
+#: inc/theme-info.php:74 inc/theme-info.php:317 inc/theme-info.php:560
+msgid "Style Configuration"
+msgstr "スタイル設定"
+
+#: inc/customize/specia-slider-section.php:122
+msgid "Select Page for Slide Three:"
+msgstr "スライド3のページを選択: "
+
+#: inc/customize/specia-slider-section.php:101
+msgid "Select Page for Slide Two:"
+msgstr "スライド2のページを選択:"
+
+#: inc/customize/specia-slider-section.php:80
+msgid "Select Page for Slide One:"
+msgstr "スライド1のページを選択:"
+
+#: inc/customize/specia-slider-section.php:12
+msgid "Slider Section"
+msgstr "スライダーセクション"
+
+#: inc/customize/specia-service.php:167
+msgid "Select Page for Service Three:"
+msgstr "サービス3のページを選択: "
+
+#: inc/customize/specia-service.php:146
+msgid "Select Page for Service Two:"
+msgstr "サービス2のページを選択: "
+
+#: inc/customize/specia-service.php:125
+msgid "Select Page for Service One:"
+msgstr "サービス1のページを選択: "
+
+#: inc/customize/specia-blog.php:93 inc/customize/specia-features.php:93
+#: inc/customize/specia-portfolio.php:92 inc/customize/specia-service.php:93
+msgid "Section Description"
+msgstr "セクションの説明"
+
+#: inc/customize/specia-service.php:12 inc/theme-info.php:153
+#: inc/theme-info.php:396 inc/theme-info.php:639
+msgid "Service Section"
+msgstr "サービスセクション"
+
+#: inc/customize/specia-portfolio.php:166
+msgid "Select Page for Portfolio Three:"
+msgstr "ポートフォリオ3のページを選択:"
+
+#: inc/customize/specia-portfolio.php:145
+msgid "Select Page for Portfolio Two:"
+msgstr "ポートフォリオ2のページを選択:"
+
+#: inc/customize/specia-portfolio.php:124
+msgid "Select Page for Portfolio One:"
+msgstr "ポートフォリオ1のページを選択:"
+
+#: inc/customize/specia-portfolio.php:12 inc/theme-info.php:165
+#: inc/theme-info.php:408 inc/theme-info.php:651
+msgid "Portfolio Section"
+msgstr "ポートフォリオセクション"
+
+#: inc/customize/specia-header-section.php:431
+msgid "Click to Hide / Show Sticky Header"
+msgstr "上部固定のヘッダーを非表示 / 表示するにはクリック"
+
+#: inc/customize/specia-header-section.php:408
+#: inc/customize/specia-header-section.php:427 inc/theme-info.php:84
+#: inc/theme-info.php:327 inc/theme-info.php:570
+msgid "Sticky Header"
+msgstr "上部固定のヘッダー"
+
+#: inc/customize/specia-header-section.php:396
+msgid "Enter the Contact Number"
+msgstr "連絡先番号を入力してください"
+
+#: inc/customize/specia-header-section.php:392
+msgid "Contact Number"
+msgstr "連絡先番号"
+
+#: inc/customize/specia-header-section.php:375
+msgid "Enter the Email"
+msgstr "メールを入力"
+
+#: inc/customize/specia-header-section.php:349
+msgid "Click to Hide / Show Contact Info"
+msgstr "連絡先情報を非表示 / 表示するにはクリック"
+
+#: inc/customize/specia-header-section.php:345
+msgid "Header Contact Info Hide/Show"
+msgstr "ヘッダー連絡先情報を非表示 / 表示"
+
+#: inc/customize/specia-header-section.php:326
+msgid "Header Contact Info"
+msgstr "ヘッダー連絡先情報"
+
+#: inc/customize/specia-header-section.php:274
+msgid "Enter Your Email Here"
+msgstr "メールアドレスをここに入力してください"
+
+#: inc/customize/specia-header-section.php:271
+#: inc/customize/specia-header-section.php:371
+msgid "Email"
+msgstr "メール"
+
+#: inc/customize/specia-header-section.php:254
+msgid "Enter Your Skype Action For E.g: skype:echo123?call (call, chat, voicemail, sendfile, userinfo, add)"
+msgstr "スカイプアクションを入力します。例: skype:echo123?call (call, chat, voicemail, sendfile, userinfo, add)"
+
+#: inc/customize/specia-header-section.php:251
+msgid "Skype Action"
+msgstr "Skype アクション"
+
+#: inc/customize/specia-header-section.php:234
+msgid "Enter Your Skype Username"
+msgstr "Skype ユーザー名を入力してください"
+
+#: inc/customize/specia-header-section.php:231
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customize/specia-header-section.php:211
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: inc/customize/specia-header-section.php:191
+msgid "Github"
+msgstr "Github"
+
+#: inc/customize/specia-header-section.php:171
+msgid "Dribble"
+msgstr "Dribble"
+
+#: inc/customize/specia-header-section.php:151
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customize/specia-header-section.php:131
+msgid "Google Plus"
+msgstr "Google+"
+
+#: inc/customize/specia-header-section.php:111
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customize/specia-header-section.php:90
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customize/specia-header-section.php:69
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customize/specia-header-section.php:46
+msgid "Click to Hide / Show Social Media"
+msgstr "ソーシャルメディアを非表示 / 表示するにはクリック"
+
+#: inc/customize/specia-header-section.php:42
+msgid "Social Media Hide/Show"
+msgstr "ソーシャルメディアの表示 / 非表示"
+
+#: inc/customize/specia-header-section.php:33
+#: inc/customize/specia-header-section.php:336
+msgid "off"
+msgstr "off"
+
+#: inc/customize/specia-header-section.php:24
+msgid "Social Media"
+msgstr "ソーシャルメディア"
+
+#: inc/customize/specia-header-section.php:12
+msgid "Header Section"
+msgstr "ヘッダーセクション"
+
+#: inc/theme-info.php:249 inc/theme-info.php:492 inc/theme-info.php:735
+msgid "Fixed Background Color"
+msgstr "固定背景色"
+
+#: inc/customize/specia-footer-section.php:211
+msgid "Stripe"
+msgstr "Stripe"
+
+#: inc/customize/specia-footer-section.php:190
+msgid "Amex"
+msgstr "Amex"
+
+#: inc/customize/specia-footer-section.php:169
+msgid "Master Card"
+msgstr "Master Card"
+
+#: inc/customize/specia-footer-section.php:148
+msgid "Visa"
+msgstr "Visa"
+
+#: inc/customize/specia-footer-section.php:130
+#: inc/customize/specia-footer-section.php:152
+#: inc/customize/specia-footer-section.php:173
+#: inc/customize/specia-footer-section.php:194
+#: inc/customize/specia-footer-section.php:215
+#: inc/customize/specia-header-section.php:72
+#: inc/customize/specia-header-section.php:93
+#: inc/customize/specia-header-section.php:114
+#: inc/customize/specia-header-section.php:134
+#: inc/customize/specia-header-section.php:154
+#: inc/customize/specia-header-section.php:174
+#: inc/customize/specia-header-section.php:194
+#: inc/customize/specia-header-section.php:214
+#: inc/customize/specia-header-section.php:294
+#: inc/customize/specia-header-section.php:314
+msgid "Enter Your Link Here"
+msgstr "ここにリンクを入力"
+
+#: inc/customize/specia-footer-section.php:126
+msgid "Paypal"
+msgstr "Paypal"
+
+#: inc/customize/specia-footer-section.php:104
+msgid "Click to Hide / Show Payment Icon Section"
+msgstr "支払いアイコンセクションを非表示 / 表示するにはクリック"
+
+#: inc/customize/specia-footer-section.php:80
+#: inc/customize/specia-footer-section.php:100
+msgid "Payment Icon"
+msgstr "支払いアイコン"
+
+#: inc/customize/specia-footer-section.php:68
+msgid "Enter your copyright text like website name"
+msgstr "ウェブサイト名など著作権テキストを入力"
+
+#: inc/customize/specia-footer-section.php:42
+msgid "Click to Hide / Show Copyright Content"
+msgstr "著作権コンテンツを非表示 / 表示するにはクリック"
+
+#: inc/customize/specia-footer-section.php:18
+#: inc/customize/specia-footer-section.php:38
+#: inc/customize/specia-footer-section.php:64
+msgid "Copyright Content"
+msgstr "著作権コンテンツ"
+
+#: inc/customize/specia-footer-section.php:10
+msgid "Footer Section"
+msgstr "フッターセクション"
+
+#: inc/customize/specia-features.php:12 inc/theme-info.php:159
+#: inc/theme-info.php:402 inc/theme-info.php:645
+msgid "Features Section"
+msgstr "特集セクション"
+
+#: inc/customize/specia-call-action.php:135
+msgid "Open link in a new tab"
+msgstr "新しいタブでリンクを開く"
+
+#: inc/customize/specia-call-action.php:115
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: inc/customize/specia-call-action.php:76
+msgid "Select Page for Call Action:"
+msgstr "Call Action のページを選択: "
+
+#: inc/customize/specia-call-action.php:12
+msgid "Call Action Section"
+msgstr "Call Action セクション"
+
+#: inc/customize/specia-blog.php:132
+msgid "9"
+msgstr "9"
+
+#: inc/customize/specia-blog.php:131
+msgid "6"
+msgstr "6"
+
+#: inc/customize/specia-blog.php:127
+msgid "No. of Post Display in a Single Row"
+msgstr "1行に表示する投稿の数"
+
+#: inc/customize/specia-blog.php:123
+msgid "Posts Display"
+msgstr "投稿表示"
+
+#: inc/customize/specia-blog.php:114 inc/customize/specia-blog.php:130
+msgid "3"
+msgstr "3"
+
+#: inc/customize/specia-blog.php:45 inc/customize/specia-call-action.php:45
+#: inc/customize/specia-features.php:45
+#: inc/customize/specia-footer-section.php:46
+#: inc/customize/specia-footer-section.php:108
+#: inc/customize/specia-header-section.php:50
+#: inc/customize/specia-header-section.php:353
+#: inc/customize/specia-header-section.php:435
+#: inc/customize/specia-portfolio.php:44 inc/customize/specia-service.php:45
+#: inc/customize/specia-slider-section.php:50
+msgid "Hide"
+msgstr "非表示"
+
+#: inc/customize/specia-blog.php:44 inc/customize/specia-call-action.php:44
+#: inc/customize/specia-features.php:44
+#: inc/customize/specia-footer-section.php:45
+#: inc/customize/specia-footer-section.php:107
+#: inc/customize/specia-header-section.php:49
+#: inc/customize/specia-header-section.php:352
+#: inc/customize/specia-header-section.php:434
+#: inc/customize/specia-portfolio.php:43 inc/customize/specia-service.php:44
+#: inc/customize/specia-slider-section.php:49
+msgid "Show"
+msgstr "表示"
+
+#: inc/customize/specia-blog.php:29 inc/customize/specia-call-action.php:29
+#: inc/customize/specia-features.php:29
+#: inc/customize/specia-footer-section.php:29
+#: inc/customize/specia-footer-section.php:91
+#: inc/customize/specia-header-section.php:418
+#: inc/customize/specia-portfolio.php:29 inc/customize/specia-service.php:29
+#: inc/customize/specia-slider-section.php:34
+msgid "on"
+msgstr "on"
+
+#: inc/customize/specia-blog.php:12
+msgid "Blog Section"
+msgstr "ブログセクション"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "ページ"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "エラー 404 "
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Articles posted by "
+msgstr "記事投稿者: "
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "タグ付きの投稿"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "検索結果: "
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "カテゴリー別アーカイブ"
+
+#: inc/breadcrumb/breadcrumb.php:6 inc/specia-nav-walker.php:124
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+msgid "1"
+msgstr "1"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#: functions.php:24
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:27 inc/customize/specia-footer-section.php:55
+msgid "Your Copyright Text"
+msgstr "著作権テキスト"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:26 comments.php:48
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:25 comments.php:47
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:22 comments.php:44
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:13
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://speciatheme.com/specia-free-wordpress-theme/"
+msgstr "https://speciatheme.com/specia-free-wordpress-theme/"

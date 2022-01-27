@@ -1,0 +1,122 @@
+0000.006 () Opened log file at time: Fri, 12 Apr 2019 06:34:26 +0000 on https://staging.innovatech.studio
+0000.006 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.11 WP: 5.1.1 PHP: 7.3.4 (fpm-fcgi, Linux innovatech-sgp-01 4.15.0-47-generic #50-Ubuntu SMP Wed Mar 13 10:44:52 UTC 2019 x86_64) MySQL: 10.2.23-MariaDB-1:10.2.23+maria~bionic-log WPLANG: en_US Server: Apache/2.4.39 (Unix) OpenSSL/1.1.0g safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 3.3M | 2M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 () Free space on disk containing Updraft's temporary directory: 18316.2 MB
+0000.039 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.047 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.049 () Entity: db
+0000.049 () restore_backup(backup_file=backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-db.gz, type=db, info=a:0:{}, last_one=)
+0000.049 () Unpacking backup... (backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-db.gz, 1.4 Mb)
+0000.054 () Database successfully unpacked
+0000.054 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.055 () Using direct MySQL access; value of use_mysqli is: 1
+0000.083 () Tried to raise max_allowed_packet from 16 MB to 32 MB, but failed (Access denied; you need (at least one of) the SUPER privilege(s) for this operation, b:0;)
+0000.083 () Max packet size: 16 MB
+0000.083 () Entering maintenance mode
+0000.083 () Enabling Maintenance mode&#8230;
+0000.084 () Backup of: https://innovatech.studio
+0000.112 () Site home: http://innovatech.studio
+0000.112 () Content URL: https://innovatech.studio/wp-content
+0000.112 () Uploads URL: http://innovatech.studio/wp-content/uploads
+0000.112 () Old table prefix: wp_
+0000.112 () Site information: multisite=0
+0000.114 () New table prefix: innovatech_
+0000.119 () Processing table (InnoDB): wp_options - will restore as: innovatech_options
+0000.167 () Restoring prior UD configuration (table: innovatech_options; keys: 94)
+0000.383 () Table prefix has changed: changing options table field(s) accordingly (options)
+0000.384 () Options table fields changed OK
+0000.405 () Processing table (InnoDB): wp_users - will restore as: innovatech_users
+0000.424 () Processing table (InnoDB): wp_usermeta - will restore as: innovatech_usermeta
+0000.444 () Table prefix has changed: changing usermeta table field(s) accordingly
+0000.446 () Usermeta table fields changed OK
+0000.446 () Processing table (InnoDB): wp_commentmeta - will restore as: innovatech_commentmeta
+0000.458 () Processing table (InnoDB): wp_comments - will restore as: innovatech_comments
+0000.470 () Processing table (InnoDB): wp_cpd_counter - will restore as: innovatech_cpd_counter
+0001.471 () Processing table (InnoDB): wp_links - will restore as: innovatech_links
+0001.503 () Processing table (InnoDB): wp_postmeta - will restore as: innovatech_postmeta
+0001.538 () Processing table (InnoDB): wp_posts - will restore as: innovatech_posts
+0001.600 () Database queries processed: 50 in 1.54 seconds
+0001.610 () Processing table (InnoDB): wp_term_relationships - will restore as: innovatech_term_relationships
+0001.628 () Processing table (InnoDB): wp_term_taxonomy - will restore as: innovatech_term_taxonomy
+0001.647 () Processing table (InnoDB): wp_termmeta - will restore as: innovatech_termmeta
+0001.662 () Processing table (InnoDB): wp_terms - will restore as: innovatech_terms
+0001.679 () Processing table (InnoDB): wp_responsive_menu - will restore as: innovatech_responsive_menu
+0001.694 () Processing table (InnoDB): wp_trp_dictionary_ja_en_gb - will restore as: innovatech_trp_dictionary_ja_en_gb
+0001.708 () Processing table (InnoDB): wp_trp_dictionary_ja_en_us - will restore as: innovatech_trp_dictionary_ja_en_us
+0001.768 () Processing table (InnoDB): wp_trp_gettext_en_gb - will restore as: innovatech_trp_gettext_en_gb
+0001.783 () Processing table (InnoDB): wp_trp_gettext_en_us - will restore as: innovatech_trp_gettext_en_us
+0001.802 () Processing table (InnoDB): wp_trp_gettext_ja - will restore as: innovatech_trp_gettext_ja
+0001.844 () Processing table (InnoDB): wp_wfbadleechers - will restore as: innovatech_wfbadleechers
+0001.851 () Processing table (InnoDB): wp_wfblockediplog - will restore as: innovatech_wfblockediplog
+0001.896 () Processing table (InnoDB): wp_wfblocks7 - will restore as: innovatech_wfblocks7
+0001.906 () Processing table (InnoDB): wp_wfconfig - will restore as: innovatech_wfconfig
+0002.007 () Processing table (InnoDB): wp_wfcrawlers - will restore as: innovatech_wfcrawlers
+0002.020 () Processing table (InnoDB): wp_wffilechanges - will restore as: innovatech_wffilechanges
+0002.028 () Processing table (InnoDB): wp_wffilemods - will restore as: innovatech_wffilemods
+0002.442 () Database queries processed: 100 in 2.38 seconds
+0002.569 () Processing table (InnoDB): wp_wfhits - will restore as: innovatech_wfhits
+0002.840 () Processing table (InnoDB): wp_wfhoover - will restore as: innovatech_wfhoover
+0002.848 () Processing table (InnoDB): wp_wfissues - will restore as: innovatech_wfissues
+0002.861 () Processing table (InnoDB): wp_wfknownfilelist - will restore as: innovatech_wfknownfilelist
+0003.112 () Processing table (InnoDB): wp_wfleechers - will restore as: innovatech_wfleechers
+0003.122 () Processing table (InnoDB): wp_wflivetraffichuman - will restore as: innovatech_wflivetraffichuman
+0003.128 () Processing table (InnoDB): wp_wflocs - will restore as: innovatech_wflocs
+0003.135 () Processing table (InnoDB): wp_wflogins - will restore as: innovatech_wflogins
+0003.197 () Processing table (InnoDB): wp_wfnotifications - will restore as: innovatech_wfnotifications
+0003.204 () Processing table (InnoDB): wp_wfpendingissues - will restore as: innovatech_wfpendingissues
+0003.213 () Processing table (InnoDB): wp_wfreversecache - will restore as: innovatech_wfreversecache
+0003.224 () Processing table (InnoDB): wp_wfscanners - will restore as: innovatech_wfscanners
+0003.232 () Processing table (InnoDB): wp_wfsnipcache - will restore as: innovatech_wfsnipcache
+0003.239 () Processing table (InnoDB): wp_wfstatus - will restore as: innovatech_wfstatus
+0003.328 () Processing table (InnoDB): wp_wftrafficrates - will restore as: innovatech_wftrafficrates
+0003.335 () Processing table (InnoDB): wp_wfvulnscanners - will restore as: innovatech_wfvulnscanners
+0003.341 () Database queries processed: 150 in 3.28 seconds
+0003.344 () Unlocking database and leaving maintenance mode
+0003.344 () Disabling Maintenance mode&#8230;
+0003.344 () Finished: lines processed: 153 in 3.28 seconds
+0003.345 () Cleaning up rubbish...
+0003.359 () Entity: plugins
+0003.359 () restore_backup(backup_file=backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:52:"/home/runcloud/webapps/innovatech/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0003.359 () Unpacking backup... (backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-plugins.zip, 15.9 MB)
+0003.363 () Unzipping backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-plugins.zip to /home/runcloud/webapps/innovatech/wp-content/upgrade/74bd2abe/ using UpdraftPlus_ZipArchive, starting index 0
+0003.797 () Unzip progress: 1002 out of 4255 files (9.8 MB, plugins/wordfence/images/icons/ajaxScan.gif)
+0004.369 () Unzip progress: 2003 out of 4255 files (37.6 MB, plugins/updraftplus/vendor/aws/aws-sdk-php/src/Aws/Common/Model/MultipartUpload/AbstractUploadBuilder.php)
+0004.783 () Unzip progress: 3004 out of 4255 files (42.7 MB, plugins/translatepress-multilingual/assets/js/trp-editor-overlay.js)
+0005.149 () Unzip progress: 4005 out of 4255 files (47.3 MB, plugins/responsive-menu/vendor/twig/twig/test/Twig/Tests/Fixtures/tags/filter/with_if_tag.test)
+0005.236 () Unzip progress: 4255 out of 4255 files (47.8 MB, plugins/responsive-menu/responsive-menu.php)
+0005.239 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.239 () Moving old data: can potentially use wp_filesystem method / -old
+0005.239 () Moving old data out of the way...
+0005.996 () Top-level entities being moved: hello.php, index.php, updraftplus, akismet
+0006.000 () Moving unpacked backup into place...
+0009.862 () Top-level entities being moved: index.php, wp-multibyte-patch, updraftplus, contact-form-7, count-per-day, translatepress-multilingual, wp-mail-smtp, better-font-awesome, akismet, responsive-menu, google-sitemap-generator, wordfence
+0009.874 () Cleaning up rubbish...
+0009.881 () Entity: themes
+0009.881 () restore_backup(backup_file=backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-themes.zip, type=themes, info=a:2:{s:4:"path";s:51:"/home/runcloud/webapps/innovatech/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0009.881 () Unpacking backup... (backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-themes.zip, 86.3 MB)
+0009.882 () Unzipping backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-themes.zip to /home/runcloud/webapps/innovatech/wp-content/upgrade/6fc4b49f/ using UpdraftPlus_ZipArchive, starting index 0
+0011.893 () Unzip progress: 568 out of 568 files (92.8 MB, themes/specia/templates/template-homepage-one.php)
+0011.894 () Moving old data: filesystem method / updraft_dir is potentially possible
+0011.894 () Moving old data: can potentially use wp_filesystem method / -old
+0011.894 () Moving old data out of the way...
+0012.053 () Top-level entities being moved: twentysixteen, index.php, twentyseventeen, twentynineteen
+0012.055 () Moving unpacked backup into place...
+0013.010 () Top-level entities being moved: index.php, specia, innovatech
+0013.011 () Cleaning up rubbish...
+0013.025 () Entity: uploads
+0013.025 () restore_backup(backup_file=backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:52:"/home/runcloud/webapps/innovatech/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0013.025 () Unpacking backup... (backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-uploads.zip, 2.8 MB)
+0013.026 () Unzipping backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-uploads.zip to /home/runcloud/webapps/innovatech/wp-content/upgrade/3d31526d/ using UpdraftPlus_ZipArchive, starting index 0
+0013.142 () Unzip progress: 22 out of 22 files (2.8 MB, uploads/2019/02/e68feab6cb6e1e5574b50ff7343909cf.png)
+0013.146 () Moving old data: filesystem method / updraft_dir is potentially possible
+0013.146 () Moving old data: can potentially use wp_filesystem method / -old
+0013.146 () Moving old data out of the way...
+0013.151 () Moving unpacked backup into place...
+0013.196 () Cleaning up rubbish...
+0013.202 () Entity: others
+0013.202 () restore_backup(backup_file=backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-others.zip, type=others, info=a:2:{s:4:"path";s:44:"/home/runcloud/webapps/innovatech/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0013.203 () Unpacking backup... (backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-others.zip, 4.6 MB)
+0013.203 () Unzipping backup_2019-04-08-1139_innovatech_studio_Co_Ltd_8414df3f4b45-others.zip to /home/runcloud/webapps/innovatech/wp-content/upgrade/0c6fc9e7/ using UpdraftPlus_ZipArchive, starting index 0
+0013.721 () Unzip progress: 80 out of 80 files (12.3 MB, wflogs/template.php)
+0013.727 () Cleaning up rubbish...
+0013.772 () Restore successful!
+0013.772 () Restore successful

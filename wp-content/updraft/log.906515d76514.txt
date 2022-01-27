@@ -1,0 +1,503 @@
+0000.001 (0) Opened log file at time: Wed, 17 Apr 2019 22:59:50 +0000 on http://innovatech.studio
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.12 WP: 5.1.1 PHP: 7.3.4 (fpm-fcgi, Linux innovatech-sgp-01 4.15.0-47-generic #50-Ubuntu SMP Wed Mar 13 10:44:52 UTC 2019 x86_64) MySQL: 10.2.23-MariaDB-1:10.2.23+maria~bionic-log WPLANG: en_US Server: Apache/2.4.39 (Unix) OpenSSL/1.1.0g safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.6M | 10M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 14605.6 MB
+0000.009 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.010 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.018 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1555478342, seconds_ago=63648)
+0000.021 (0) Set semaphore last lock (fd) time to 2019-04-17 22:59:50
+0000.023 (0) Semaphore lock (fd) complete
+0000.031 (0) Backup run: resumption=0, nonce=906515d76514, file_nonce=906515d76514 begun at=1555541990 (0s ago), job type=backup
+0000.034 (0) Scheduling a resumption (1) after 300 seconds (1555542290) in case this run gets aborted
+0000.060 (0) Checking if we have a zip executable available
+0000.064 (0) Creation of backups of directories: beginning
+0000.068 (0) Beginning creation of dump of plugins (split every: 25 MB)
+0001.914 (0) Total entities for the zip file: 585 directories, 3663 files (0 skipped as non-modified), 47.7 MB
+0001.949 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.990 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.032 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.075 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.115 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.117 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 3663 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.441 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 600 files added (on-disk size: 686.4 KB)
+0002.502 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 700 files added (on-disk size: 686.4 KB)
+0002.570 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 800 files added (on-disk size: 686.4 KB)
+0002.632 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 900 files added (on-disk size: 686.4 KB)
+0002.693 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1000 files added (on-disk size: 686.4 KB)
+0002.697 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.2 MB, 3663 files batched, 501 (1002) added so far); re-opening (prior size: 686.4 KB)
+0003.282 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1100 files added (on-disk size: 1847.3 KB)
+0003.326 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1200 files added (on-disk size: 1847.3 KB)
+0003.370 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1300 files added (on-disk size: 1847.3 KB)
+0003.410 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1400 files added (on-disk size: 1847.3 KB)
+0003.453 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1500 files added (on-disk size: 1847.3 KB)
+0003.456 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.2 MB, 3663 files batched, 501 (1503) added so far); re-opening (prior size: 1847.3 KB)
+0005.503 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1600 files added (on-disk size: 7266.1 KB)
+0005.553 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1700 files added (on-disk size: 7266.1 KB)
+0005.600 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1800 files added (on-disk size: 7266.1 KB)
+0005.653 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 1900 files added (on-disk size: 7266.1 KB)
+0005.713 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2000 files added (on-disk size: 7266.1 KB)
+0005.718 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 3663 files batched, 501 (2004) added so far); re-opening (prior size: 7266.1 KB)
+0006.340 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2100 files added (on-disk size: 8485.1 KB)
+0006.394 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2200 files added (on-disk size: 8485.1 KB)
+0006.452 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2300 files added (on-disk size: 8485.1 KB)
+0006.498 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2400 files added (on-disk size: 8485.1 KB)
+0006.555 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2500 files added (on-disk size: 8485.1 KB)
+0006.561 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.3 MB, 3663 files batched, 501 (2505) added so far); re-opening (prior size: 8485.1 KB)
+0007.675 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2600 files added (on-disk size: 10732.9 KB)
+0007.742 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2700 files added (on-disk size: 10732.9 KB)
+0007.807 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2800 files added (on-disk size: 10732.9 KB)
+0007.864 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 2900 files added (on-disk size: 10732.9 KB)
+0007.910 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 3000 files added (on-disk size: 10732.9 KB)
+0007.915 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.2 MB, 3663 files batched, 501 (3006) added so far); re-opening (prior size: 10732.9 KB)
+0008.343 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 3100 files added (on-disk size: 11261.4 KB)
+0008.376 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 3200 files added (on-disk size: 11261.4 KB)
+0008.409 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 3300 files added (on-disk size: 11261.4 KB)
+0008.436 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 3400 files added (on-disk size: 11261.4 KB)
+0008.465 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 3500 files added (on-disk size: 11261.4 KB)
+0008.469 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.4 MB, 3663 files batched, 501 (3507) added so far); re-opening (prior size: 11261.4 KB)
+0011.976 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip.tmp: 3600 files added (on-disk size: 15828.9 KB)
+0012.790 (0) Created plugins zip (0) - 16289 KB in 12.7 s (1280.8 KB/s) (sha1: e64388bad50f0abf3dd78ca11082d0ccb3965541, sha256: 98366e037c6da9ba3b75e14d1ef9cba57c0cbc740c693b99fd82df27b4b0469a)
+0012.797 (0) Beginning creation of dump of themes (split every: 25 MB)
+0012.998 (0) Total entities for the zip file: 68 directories, 502 files (0 skipped as non-modified), 93.2 MB
+0013.032 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0013.051 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 502 files batched, 170 (170) added so far); re-opening (prior size: 0 KB)
+0013.642 (0) A useful amount of data was added after this amount of zip processing: 1.1 s (normalised: 1.1 s, rate: 24010.1 KB/s)
+0013.644 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=1.078222990036, normalised_time=1.0662172674426, max_time=13.642653942108, data points known=1, max_bytes=26214400)
+0013.647 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (2 MB, 2 (172) files added so far); last ratio: 0.915; re-opening (prior size: 23687.1 KB)
+0013.755 (0) Zip size is at/near split limit (25.1 MB / 25 MB) - bumping index (from: 0)
+0014.127 (0) Created themes zip (0) - 25746.3 KB in 1 s (27009.5 KB/s) (checksums: sha1: 1295b6d365f78c43b68b23c2179838263de49995, sha256: deb3b9b3b46fb1eef8844c511fcf01d89e8aa2f591ddd3912c3ce01f5047109e)
+0014.139 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes2.zip.tmp: 200 files added (on-disk size: 0 KB)
+0014.156 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (30.8 MB, 502 files batched, 90 (262) added so far); re-opening (prior size: 0 KB)
+0014.359 (0) A useful amount of data was added after this amount of zip processing: 0.8 s (normalised: 0.6 s, rate: 39702.4 KB/s)
+0014.361 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=0.79517889022827, normalised_time=0.64479774302172, max_time=14.360031843185, data points known=1, max_bytes=26214400)
+0014.364 (0) Zip size is at/near split limit (30.8 MB / 25 MB) - bumping index (from: 1)
+0014.825 (0) Created themes zip (1) - 31537.1 KB in 0.2 s (132818.2 KB/s) (checksums: sha1: d6cf774bc33388ba54a37296241a778d25d6a90f, sha256: 73f49f2038aba059dd0f120ec659f5e50e0bafcaf0174211ca3cc756f1771047)
+0014.838 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes3.zip.tmp: 300 files added (on-disk size: 0 KB)
+0014.858 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 502 files batched, 107 (369) added so far); re-opening (prior size: 0 KB)
+0015.551 (0) A useful amount of data was added after this amount of zip processing: 2 s (normalised: 2 s, rate: 12924.3 KB/s)
+0015.553 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=1.9874079227448, normalised_time=1.9807692658642, max_time=15.55212688446, data points known=1, max_bytes=26214400)
+0015.564 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes3.zip.tmp: 400 files added (on-disk size: 23738.6 KB)
+0015.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (2.1 MB, 43 (412) files added so far); last ratio: 0.9242; re-opening (prior size: 23738.6 KB)
+0015.776 (0) Zip size is at/near split limit (25 MB / 25 MB) - bumping index (from: 2)
+0016.148 (0) Created themes zip (2) - 25624.6 KB in 1 s (26948 KB/s) (checksums: sha1: a46ac81bbe059ad3c005dc6206d9d6513b695b68, sha256: caec629fb6c79d406ff688fd4a145533e60b9768d553c5e08166de0a9794a5fa)
+0016.176 (0) Zip: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes4.zip.tmp: 500 files added (on-disk size: 0 KB)
+0016.495 (0) Created themes zip (3) - 6772.3 KB in 0.3 s (19581.6 KB/s) (sha1: 8db5c11a132890376e27905a3fb13c8562670c2c, sha256: 8b8e136e616bd48e4fc6fc019b6112533ee34af8270e6835051bf1cd99e6f056)
+0016.502 (0) Exclusion option setting (uploads): 
+0016.504 (0) Looking for candidates to backup in: /home/runcloud/webapps/innovatech/wp-content/uploads
+0016.506 (0) finding files: wpcf7_uploads: adding to list (1)
+0016.507 (0) finding files: 2018: adding to list (2)
+0016.509 (0) finding files: 2019: adding to list (3)
+0016.510 (0) Beginning creation of dump of uploads (split every: 25 MB)
+0016.536 (0) Total entities for the zip file: 11 directories, 11 files (0 skipped as non-modified), 2.8 MB
+0016.641 (0) Created uploads zip (0) - 2916.2 KB in 0.1 s (23728.7 KB/s) (sha1: 6b666851311b7658d2708bdf883e180556881671, sha256: 873ee28a9d4cdd363ba64aa531dead650200b2ef32318b4046859a4a1425d8fd)
+0016.646 (0) Beginning backup of other directories found in the content directory (index: 0)
+0016.647 (0) Exclusion option setting (others): 
+0016.648 (0) Looking for candidates to backup in: /home/runcloud/webapps/innovatech/wp-content
+0016.649 (0) finding files: count-per-day-geoip: adding to list (1)
+0016.650 (0) finding files: plugins: skipping: this is the plugins directory
+0016.651 (0) finding files: index.php: adding to list (2)
+0016.652 (0) finding files: uploads: skipping: this is the uploads directory
+0016.653 (0) finding files: wflogs: adding to list (3)
+0016.654 (0) finding files: upgrade: adding to list (4)
+0016.655 (0) finding files: languages: adding to list (5)
+0016.656 (0) finding files: themes: skipping: this is the themes directory
+0016.656 (0) finding files: updraft: skipping: this is the updraft directory
+0016.692 (0) Total entities for the zip file: 6 directories, 71 files (0 skipped as non-modified), 12.2 MB
+0021.368 (0) Created others zip (0) - 4661.1 KB in 4.7 s (990.3 KB/s) (sha1: 2415ac34d3a5ee8143e9609022189326562c44ea, sha256: 085c20b48fcec77d886f024b35870d4122ff37c9c0807856876d7b75db028f5c)
+0021.375 (0) Saving backup status to database (elements: 11)
+0021.385 (0) Beginning creation of database dump (WordPress DB)
+0021.396 (0) Table innovatech_options: Total expected rows (approximate): 338
+0021.414 (0) Table innovatech_options: Total rows added: 339 in 0.02 seconds
+0021.417 (0) Table innovatech_options: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_options.table.gz - 49.7 KB)
+0021.422 (0) Table innovatech_users: Total expected rows (approximate): 2
+0021.424 (0) Table innovatech_users: Total rows added: 2 in 0.00 seconds
+0021.426 (0) Table innovatech_users: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_users.table.gz - 0.6 KB)
+0021.433 (0) Table innovatech_usermeta: Total expected rows (approximate): 53
+0021.436 (0) Table innovatech_usermeta: Total rows added: 53 in 0.00 seconds
+0021.437 (0) Table innovatech_usermeta: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_usermeta.table.gz - 2.1 KB)
+0021.446 (0) Table innovatech_commentmeta: Total expected rows (approximate): 0
+0021.449 (0) Table innovatech_commentmeta: Total rows added: 0 in 0.00 seconds
+0021.451 (0) Table innovatech_commentmeta: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_commentmeta.table.gz - 0.4 KB)
+0021.456 (0) Table innovatech_comments: Total expected rows (approximate): 0
+0021.458 (0) Table innovatech_comments: Total rows added: 0 in 0.00 seconds
+0021.460 (0) Table innovatech_comments: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_comments.table.gz - 0.5 KB)
+0021.464 (0) Table innovatech_cpd_counter: Total expected rows (approximate): 23470
+0022.099 (0) Table innovatech_cpd_counter: Total rows added: 23774 in 0.63 seconds
+0022.102 (0) Table innovatech_cpd_counter: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_cpd_counter.table.gz - 340.1 KB)
+0022.111 (0) Table innovatech_links: Total expected rows (approximate): 0
+0022.113 (0) Table innovatech_links: Total rows added: 0 in 0.00 seconds
+0022.115 (0) Table innovatech_links: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_links.table.gz - 0.4 KB)
+0022.120 (0) Table innovatech_postmeta: Total expected rows (approximate): 177
+0022.125 (0) Table innovatech_postmeta: Total rows added: 177 in 0.00 seconds
+0022.127 (0) Table innovatech_postmeta: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_postmeta.table.gz - 6.8 KB)
+0022.132 (0) Table innovatech_posts: Total expected rows (approximate): 129
+0022.156 (0) Table innovatech_posts: Total rows added: 129 in 0.02 seconds
+0022.159 (0) Table innovatech_posts: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_posts.table.gz - 23.1 KB)
+0022.168 (0) Table innovatech_term_relationships: Total expected rows (approximate): 60
+0022.171 (0) Table innovatech_term_relationships: Total rows added: 60 in 0.00 seconds
+0022.174 (0) Table innovatech_term_relationships: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_term_relationships.table.gz - 0.5 KB)
+0022.182 (0) Table innovatech_term_taxonomy: Total expected rows (approximate): 16
+0022.187 (0) Table innovatech_term_taxonomy: Total rows added: 16 in 0.00 seconds
+0022.190 (0) Table innovatech_term_taxonomy: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_term_taxonomy.table.gz - 0.8 KB)
+0022.197 (0) Table innovatech_termmeta: Total expected rows (approximate): 0
+0022.200 (0) Table innovatech_termmeta: Total rows added: 0 in 0.00 seconds
+0022.202 (0) Table innovatech_termmeta: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_termmeta.table.gz - 0.4 KB)
+0022.209 (0) Table innovatech_terms: Total expected rows (approximate): 16
+0022.213 (0) Table innovatech_terms: Total rows added: 16 in 0.00 seconds
+0022.214 (0) Table innovatech_terms: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_terms.table.gz - 0.7 KB)
+0022.221 (0) Table innovatech_responsive_menu: Total expected rows (approximate): 280
+0022.224 (0) Table innovatech_responsive_menu: Total rows added: 280 in 0.00 seconds
+0022.226 (0) Table innovatech_responsive_menu: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_responsive_menu.table.gz - 2.2 KB)
+0022.232 (0) Table innovatech_trp_dictionary_ja_en_gb: Total expected rows (approximate): 91
+0022.234 (0) Table innovatech_trp_dictionary_ja_en_gb: Total rows added: 91 in 0.00 seconds
+0022.237 (0) Table innovatech_trp_dictionary_ja_en_gb: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_dictionary_ja_en_gb.table.gz - 2.6 KB)
+0022.242 (0) Table innovatech_trp_dictionary_ja_en_us: Total expected rows (approximate): 674
+0022.251 (0) Table innovatech_trp_dictionary_ja_en_us: Total rows added: 674 in 0.01 seconds
+0022.254 (0) Table innovatech_trp_dictionary_ja_en_us: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_dictionary_ja_en_us.table.gz - 18 KB)
+0022.260 (0) Table innovatech_trp_gettext_en_gb: Total expected rows (approximate): 81
+0022.263 (0) Table innovatech_trp_gettext_en_gb: Total rows added: 81 in 0.00 seconds
+0022.264 (0) Table innovatech_trp_gettext_en_gb: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_gettext_en_gb.table.gz - 1.6 KB)
+0022.272 (0) Table innovatech_trp_gettext_en_us: Total expected rows (approximate): 146
+0022.276 (0) Table innovatech_trp_gettext_en_us: Total rows added: 140 in 0.00 seconds
+0022.278 (0) Table innovatech_trp_gettext_en_us: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_gettext_en_us.table.gz - 2.2 KB)
+0022.283 (0) Table innovatech_trp_gettext_ja: Total expected rows (approximate): 395
+0022.297 (0) Table innovatech_trp_gettext_ja: Total rows added: 395 in 0.01 seconds
+0022.301 (0) Table innovatech_trp_gettext_ja: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_gettext_ja.table.gz - 17.2 KB)
+0022.309 (0) Table innovatech_wfbadleechers: Total expected rows (approximate): 0
+0022.312 (0) Table innovatech_wfbadleechers: Total rows added: 0 in 0.00 seconds
+0022.314 (0) Table innovatech_wfbadleechers: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfbadleechers.table.gz - 0.3 KB)
+0022.320 (0) Table innovatech_wfblockediplog: Total expected rows (approximate): 722
+0022.331 (0) Table innovatech_wfblockediplog: Total rows added: 722 in 0.01 seconds
+0022.334 (0) Table innovatech_wfblockediplog: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfblockediplog.table.gz - 4.9 KB)
+0022.340 (0) Table innovatech_wfblocks7: Total expected rows (approximate): 0
+0022.343 (0) Table innovatech_wfblocks7: Total rows added: 0 in 0.00 seconds
+0022.345 (0) Table innovatech_wfblocks7: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfblocks7.table.gz - 0.4 KB)
+0022.352 (0) Table innovatech_wfconfig: Total expected rows (approximate): 262
+0022.400 (0) Table innovatech_wfconfig: Total rows added: 266 in 0.05 seconds
+0022.403 (0) Table innovatech_wfconfig: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfconfig.table.gz - 365.5 KB)
+0022.408 (0) Table innovatech_wfcrawlers: Total expected rows (approximate): 9
+0022.411 (0) Table innovatech_wfcrawlers: Total rows added: 9 in 0.00 seconds
+0022.413 (0) Table innovatech_wfcrawlers: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfcrawlers.table.gz - 0.6 KB)
+0022.420 (0) Table innovatech_wffilechanges: Total expected rows (approximate): 0
+0022.423 (0) Table innovatech_wffilechanges: Total rows added: 0 in 0.00 seconds
+0022.425 (0) Table innovatech_wffilechanges: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wffilechanges.table.gz - 0.3 KB)
+0022.432 (0) Table innovatech_wffilemods: Total expected rows (approximate): 7177
+0022.586 (0) Table innovatech_wffilemods: Total rows added: 6589 in 0.15 seconds
+0022.590 (0) Table innovatech_wffilemods: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wffilemods.table.gz - 565.8 KB)
+0022.596 (0) Table innovatech_wfhits: Total expected rows (approximate): 1649
+0022.658 (0) Table innovatech_wfhits: Total rows added: 1637 in 0.06 seconds
+0022.661 (0) Table innovatech_wfhits: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfhits.table.gz - 53.5 KB)
+0022.669 (0) Table innovatech_wfhoover: Total expected rows (approximate): 0
+0022.673 (0) Table innovatech_wfhoover: Total rows added: 0 in 0.00 seconds
+0022.675 (0) Table innovatech_wfhoover: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfhoover.table.gz - 0.3 KB)
+0022.682 (0) Table innovatech_wfissues: Total expected rows (approximate): 1
+0022.686 (0) Table innovatech_wfissues: Total rows added: 1 in 0.00 seconds
+0022.688 (0) Table innovatech_wfissues: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfissues.table.gz - 0.7 KB)
+0022.695 (0) Table innovatech_wfknownfilelist: Total expected rows (approximate): 6368
+0022.752 (0) Table innovatech_wfknownfilelist: Total rows added: 6589 in 0.05 seconds
+0022.755 (0) Table innovatech_wfknownfilelist: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfknownfilelist.table.gz - 66.8 KB)
+0022.765 (0) Table innovatech_wfleechers: Total expected rows (approximate): 200
+0022.770 (0) Table innovatech_wfleechers: Total rows added: 200 in 0.00 seconds
+0022.773 (0) Table innovatech_wfleechers: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfleechers.table.gz - 1.9 KB)
+0022.780 (0) Table innovatech_wflivetraffichuman: Total expected rows (approximate): 0
+0022.783 (0) Table innovatech_wflivetraffichuman: Total rows added: 0 in 0.00 seconds
+0022.785 (0) Table innovatech_wflivetraffichuman: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wflivetraffichuman.table.gz - 0.3 KB)
+0022.791 (0) Table innovatech_wflocs: Total expected rows (approximate): 168
+0022.797 (0) Table innovatech_wflocs: Total rows added: 168 in 0.00 seconds
+0022.800 (0) Table innovatech_wflocs: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wflocs.table.gz - 4.1 KB)
+0022.806 (0) Table innovatech_wflogins: Total expected rows (approximate): 670
+0022.823 (0) Table innovatech_wflogins: Total rows added: 670 in 0.02 seconds
+0022.826 (0) Table innovatech_wflogins: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wflogins.table.gz - 22.6 KB)
+0022.832 (0) Table innovatech_wfnotifications: Total expected rows (approximate): 10
+0022.835 (0) Table innovatech_wfnotifications: Total rows added: 10 in 0.00 seconds
+0022.837 (0) Table innovatech_wfnotifications: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfnotifications.table.gz - 0.7 KB)
+0022.843 (0) Table innovatech_wfpendingissues: Total expected rows (approximate): 0
+0022.848 (0) Table innovatech_wfpendingissues: Total rows added: 0 in 0.00 seconds
+0022.852 (0) Table innovatech_wfpendingissues: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfpendingissues.table.gz - 0.4 KB)
+0022.860 (0) Table innovatech_wfreversecache: Total expected rows (approximate): 10
+0022.864 (0) Table innovatech_wfreversecache: Total rows added: 10 in 0.00 seconds
+0022.866 (0) Table innovatech_wfreversecache: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfreversecache.table.gz - 0.5 KB)
+0022.875 (0) Table innovatech_wfscanners: Total expected rows (approximate): 12
+0022.879 (0) Table innovatech_wfscanners: Total rows added: 12 in 0.00 seconds
+0022.881 (0) Table innovatech_wfscanners: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfscanners.table.gz - 0.5 KB)
+0022.889 (0) Table innovatech_wfsnipcache: Total expected rows (approximate): 7
+0022.893 (0) Table innovatech_wfsnipcache: Total rows added: 7 in 0.00 seconds
+0022.896 (0) Table innovatech_wfsnipcache: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfsnipcache.table.gz - 0.6 KB)
+0022.903 (0) Table innovatech_wfstatus: Total expected rows (approximate): 943
+0022.915 (0) Table innovatech_wfstatus: Total rows added: 943 in 0.01 seconds
+0022.917 (0) Table innovatech_wfstatus: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfstatus.table.gz - 15.8 KB)
+0022.923 (0) Table innovatech_wftrafficrates: Total expected rows (approximate): 0
+0022.925 (0) Table innovatech_wftrafficrates: Total rows added: 0 in 0.00 seconds
+0022.927 (0) Table innovatech_wftrafficrates: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wftrafficrates.table.gz - 0.3 KB)
+0022.932 (0) Table innovatech_wfvulnscanners: Total expected rows (approximate): 0
+0022.934 (0) Table innovatech_wfvulnscanners: Total rows added: 0 in 0.00 seconds
+0022.936 (0) Table innovatech_wfvulnscanners: finishing file (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfvulnscanners.table.gz - 0.3 KB)
+0022.940 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_options.table.gz (1/42): adding to final database dump
+0022.952 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_users.table.gz (2/42): adding to final database dump
+0022.954 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_usermeta.table.gz (3/42): adding to final database dump
+0022.956 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_commentmeta.table.gz (4/42): adding to final database dump
+0022.957 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_comments.table.gz (5/42): adding to final database dump
+0022.959 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_cpd_counter.table.gz (6/42): adding to final database dump
+0023.090 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_links.table.gz (7/42): adding to final database dump
+0023.092 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_postmeta.table.gz (8/42): adding to final database dump
+0023.095 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_posts.table.gz (9/42): adding to final database dump
+0023.103 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_term_relationships.table.gz (10/42): adding to final database dump
+0023.105 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_term_taxonomy.table.gz (11/42): adding to final database dump
+0023.107 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_termmeta.table.gz (12/42): adding to final database dump
+0023.108 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_terms.table.gz (13/42): adding to final database dump
+0023.109 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_responsive_menu.table.gz (14/42): adding to final database dump
+0023.111 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_dictionary_ja_en_gb.table.gz (15/42): adding to final database dump
+0023.113 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_dictionary_ja_en_us.table.gz (16/42): adding to final database dump
+0023.118 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_gettext_en_gb.table.gz (17/42): adding to final database dump
+0023.120 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_gettext_en_us.table.gz (18/42): adding to final database dump
+0023.121 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_trp_gettext_ja.table.gz (19/42): adding to final database dump
+0023.126 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfbadleechers.table.gz (20/42): adding to final database dump
+0023.128 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfblockediplog.table.gz (21/42): adding to final database dump
+0023.131 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfblocks7.table.gz (22/42): adding to final database dump
+0023.132 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfconfig.table.gz (23/42): adding to final database dump
+0023.158 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfcrawlers.table.gz (24/42): adding to final database dump
+0023.160 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wffilechanges.table.gz (25/42): adding to final database dump
+0023.161 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wffilemods.table.gz (26/42): adding to final database dump
+0023.240 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfhits.table.gz (27/42): adding to final database dump
+0023.257 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfhoover.table.gz (28/42): adding to final database dump
+0023.260 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfissues.table.gz (29/42): adding to final database dump
+0023.261 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfknownfilelist.table.gz (30/42): adding to final database dump
+0023.280 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfleechers.table.gz (31/42): adding to final database dump
+0023.283 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wflivetraffichuman.table.gz (32/42): adding to final database dump
+0023.285 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wflocs.table.gz (33/42): adding to final database dump
+0023.286 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wflogins.table.gz (34/42): adding to final database dump
+0023.294 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfnotifications.table.gz (35/42): adding to final database dump
+0023.296 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfpendingissues.table.gz (36/42): adding to final database dump
+0023.297 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfreversecache.table.gz (37/42): adding to final database dump
+0023.299 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfscanners.table.gz (38/42): adding to final database dump
+0023.300 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfsnipcache.table.gz (39/42): adding to final database dump
+0023.301 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfstatus.table.gz (40/42): adding to final database dump
+0023.306 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wftrafficrates.table.gz (41/42): adding to final database dump
+0023.308 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db-table-innovatech_wfvulnscanners.table.gz (42/42): adding to final database dump
+0023.311 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db.gz: finished writing out complete database file (1544 KB)
+0023.344 (0) Total database tables backed up: 42 (backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db.gz, size: 1604636, sha256)
+0023.357 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0023.358 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.359 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes2.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.360 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes3.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.361 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes4.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.362 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0023.363 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-others.zip: others: This file has not yet been successfully uploaded: will queue
+0023.364 (0) backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db.gz: db: This file has not yet been successfully uploaded: will queue
+0023.365 (0) Saving backup history. Total backup size: 112.4 MB
+0023.371 (0) Requesting upload of the files that have not yet been successfully uploaded (8)
+0023.376 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0023.377 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d71056d97b5b63369d8b635a9c300d75)
+0027.621 (0) Google Drive: quota usage: used=6508.8 MB, total=10492268.8 MB, available=10485760 MB
+0027.624 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0028.316 (0) Googledrive chunked upload: 6.3 % uploaded (1048576)
+0028.407 (0) Googledrive chunked upload: 12.6 % uploaded (2097152)
+0028.504 (0) Googledrive chunked upload: 18.9 % uploaded (3145728)
+0028.605 (0) Googledrive chunked upload: 25.1 % uploaded (4194304)
+0028.715 (0) Googledrive chunked upload: 31.4 % uploaded (5242880)
+0028.805 (0) Googledrive chunked upload: 37.7 % uploaded (6291456)
+0028.899 (0) Googledrive chunked upload: 44 % uploaded (7340032)
+0028.986 (0) Googledrive chunked upload: 50.3 % uploaded (8388608)
+0029.073 (0) Googledrive chunked upload: 56.6 % uploaded (9437184)
+0029.168 (0) Googledrive chunked upload: 62.9 % uploaded (10485760)
+0029.268 (0) Googledrive chunked upload: 69.2 % uploaded (11534336)
+0029.363 (0) Googledrive chunked upload: 75.4 % uploaded (12582912)
+0029.447 (0) Googledrive chunked upload: 81.7 % uploaded (13631488)
+0029.565 (0) Googledrive chunked upload: 88 % uploaded (14680064)
+0029.667 (0) Googledrive chunked upload: 94.3 % uploaded (15728640)
+0031.483 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0031.489 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip uploaded in 3.86 seconds
+0031.491 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip
+0031.498 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-plugins.zip: skipped: user has unchecked updraft_delete_local option
+0031.876 (0) Google Drive: quota usage: used=6524.7 MB, total=10492284.7 MB, available=10485760 MB
+0031.878 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes.zip: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0032.590 (0) Googledrive chunked upload: 4 % uploaded (1048576)
+0032.739 (0) Googledrive chunked upload: 8 % uploaded (2097152)
+0032.821 (0) Googledrive chunked upload: 11.9 % uploaded (3145728)
+0032.907 (0) Googledrive chunked upload: 15.9 % uploaded (4194304)
+0032.981 (0) Googledrive chunked upload: 19.9 % uploaded (5242880)
+0033.071 (0) Googledrive chunked upload: 23.9 % uploaded (6291456)
+0033.284 (0) Googledrive chunked upload: 27.8 % uploaded (7340032)
+0033.367 (0) Googledrive chunked upload: 31.8 % uploaded (8388608)
+0033.470 (0) Googledrive chunked upload: 35.8 % uploaded (9437184)
+0033.554 (0) Googledrive chunked upload: 39.8 % uploaded (10485760)
+0033.632 (0) Googledrive chunked upload: 43.7 % uploaded (11534336)
+0033.724 (0) Googledrive chunked upload: 47.7 % uploaded (12582912)
+0033.805 (0) Googledrive chunked upload: 51.7 % uploaded (13631488)
+0033.890 (0) Googledrive chunked upload: 55.7 % uploaded (14680064)
+0033.985 (0) Googledrive chunked upload: 59.7 % uploaded (15728640)
+0034.073 (0) Googledrive chunked upload: 63.6 % uploaded (16777216)
+0034.151 (0) Googledrive chunked upload: 67.6 % uploaded (17825792)
+0034.226 (0) Googledrive chunked upload: 71.6 % uploaded (18874368)
+0034.313 (0) Googledrive chunked upload: 75.6 % uploaded (19922944)
+0034.396 (0) Googledrive chunked upload: 79.5 % uploaded (20971520)
+0034.488 (0) Googledrive chunked upload: 83.5 % uploaded (22020096)
+0034.575 (0) Googledrive chunked upload: 87.5 % uploaded (23068672)
+0034.652 (0) Googledrive chunked upload: 91.5 % uploaded (24117248)
+0034.745 (0) Googledrive chunked upload: 95.5 % uploaded (25165824)
+0034.950 (0) Googledrive chunked upload: 99.4 % uploaded (26214400)
+0036.425 (0) Googledrive chunked upload: 100 % uploaded (26214400)
+0036.438 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes.zip uploaded in 4.56 seconds
+0036.440 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes.zip
+0036.444 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes.zip: skipped: user has unchecked updraft_delete_local option
+0036.800 (0) Google Drive: quota usage: used=6549.8 MB, total=10492309.8 MB, available=10485760 MB
+0036.802 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes2.zip: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0037.493 (0) Googledrive chunked upload: 3.2 % uploaded (1048576)
+0037.594 (0) Googledrive chunked upload: 6.5 % uploaded (2097152)
+0037.685 (0) Googledrive chunked upload: 9.7 % uploaded (3145728)
+0037.788 (0) Googledrive chunked upload: 13 % uploaded (4194304)
+0037.894 (0) Googledrive chunked upload: 16.2 % uploaded (5242880)
+0037.968 (0) Googledrive chunked upload: 19.5 % uploaded (6291456)
+0038.077 (0) Googledrive chunked upload: 22.7 % uploaded (7340032)
+0038.202 (0) Googledrive chunked upload: 26 % uploaded (8388608)
+0038.295 (0) Googledrive chunked upload: 29.2 % uploaded (9437184)
+0038.395 (0) Googledrive chunked upload: 32.5 % uploaded (10485760)
+0038.473 (0) Googledrive chunked upload: 35.7 % uploaded (11534336)
+0038.559 (0) Googledrive chunked upload: 39 % uploaded (12582912)
+0038.715 (0) Googledrive chunked upload: 42.2 % uploaded (13631488)
+0038.792 (0) Googledrive chunked upload: 45.5 % uploaded (14680064)
+0038.881 (0) Googledrive chunked upload: 48.7 % uploaded (15728640)
+0038.967 (0) Googledrive chunked upload: 52 % uploaded (16777216)
+0039.038 (0) Googledrive chunked upload: 55.2 % uploaded (17825792)
+0039.132 (0) Googledrive chunked upload: 58.4 % uploaded (18874368)
+0039.214 (0) Googledrive chunked upload: 61.7 % uploaded (19922944)
+0039.301 (0) Googledrive chunked upload: 64.9 % uploaded (20971520)
+0039.395 (0) Googledrive chunked upload: 68.2 % uploaded (22020096)
+0039.461 (0) Googledrive chunked upload: 71.4 % uploaded (23068672)
+0039.540 (0) Googledrive chunked upload: 74.7 % uploaded (24117248)
+0039.625 (0) Googledrive chunked upload: 77.9 % uploaded (25165824)
+0039.742 (0) Googledrive chunked upload: 81.2 % uploaded (26214400)
+0039.806 (0) Googledrive chunked upload: 84.4 % uploaded (27262976)
+0039.917 (0) Googledrive chunked upload: 87.7 % uploaded (28311552)
+0040.051 (0) Googledrive chunked upload: 90.9 % uploaded (29360128)
+0040.145 (0) Googledrive chunked upload: 94.2 % uploaded (30408704)
+0040.227 (0) Googledrive chunked upload: 97.4 % uploaded (31457280)
+0041.832 (0) Googledrive chunked upload: 100 % uploaded (31457280)
+0041.836 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes2.zip uploaded in 5.03 seconds
+0041.837 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes2.zip
+0041.839 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes2.zip: skipped: user has unchecked updraft_delete_local option
+0042.494 (0) Google Drive: quota usage: used=6580.6 MB, total=10492340.6 MB, available=10485760 MB
+0042.496 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes3.zip: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0043.168 (0) Googledrive chunked upload: 4 % uploaded (1048576)
+0043.256 (0) Googledrive chunked upload: 8 % uploaded (2097152)
+0043.351 (0) Googledrive chunked upload: 12 % uploaded (3145728)
+0043.452 (0) Googledrive chunked upload: 16 % uploaded (4194304)
+0043.610 (0) Googledrive chunked upload: 20 % uploaded (5242880)
+0043.698 (0) Googledrive chunked upload: 24 % uploaded (6291456)
+0043.763 (0) Googledrive chunked upload: 28 % uploaded (7340032)
+0043.848 (0) Googledrive chunked upload: 32 % uploaded (8388608)
+0043.925 (0) Googledrive chunked upload: 36 % uploaded (9437184)
+0044.007 (0) Googledrive chunked upload: 40 % uploaded (10485760)
+0044.184 (0) Googledrive chunked upload: 44 % uploaded (11534336)
+0044.261 (0) Googledrive chunked upload: 48 % uploaded (12582912)
+0044.344 (0) Googledrive chunked upload: 52 % uploaded (13631488)
+0044.425 (0) Googledrive chunked upload: 55.9 % uploaded (14680064)
+0044.516 (0) Googledrive chunked upload: 59.9 % uploaded (15728640)
+0044.599 (0) Googledrive chunked upload: 63.9 % uploaded (16777216)
+0044.692 (0) Googledrive chunked upload: 67.9 % uploaded (17825792)
+0044.776 (0) Googledrive chunked upload: 71.9 % uploaded (18874368)
+0044.860 (0) Googledrive chunked upload: 75.9 % uploaded (19922944)
+0044.945 (0) Googledrive chunked upload: 79.9 % uploaded (20971520)
+0045.018 (0) Googledrive chunked upload: 83.9 % uploaded (22020096)
+0045.104 (0) Googledrive chunked upload: 87.9 % uploaded (23068672)
+0045.194 (0) Googledrive chunked upload: 91.9 % uploaded (24117248)
+0045.271 (0) Googledrive chunked upload: 95.9 % uploaded (25165824)
+0045.353 (0) Googledrive chunked upload: 99.9 % uploaded (26214400)
+0046.782 (0) Googledrive chunked upload: 100 % uploaded (26214400)
+0046.787 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes3.zip uploaded in 4.29 seconds
+0046.788 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes3.zip
+0046.790 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes3.zip: skipped: user has unchecked updraft_delete_local option
+0047.102 (0) Google Drive: quota usage: used=6580.6 MB, total=10492340.6 MB, available=10485760 MB
+0047.104 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes4.zip: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0047.765 (0) Googledrive chunked upload: 15.1 % uploaded (1048576)
+0047.841 (0) Googledrive chunked upload: 30.2 % uploaded (2097152)
+0047.929 (0) Googledrive chunked upload: 45.4 % uploaded (3145728)
+0048.007 (0) Googledrive chunked upload: 60.5 % uploaded (4194304)
+0048.098 (0) Googledrive chunked upload: 75.6 % uploaded (5242880)
+0048.190 (0) Googledrive chunked upload: 90.7 % uploaded (6291456)
+0049.551 (0) Googledrive chunked upload: 100 % uploaded (6291456)
+0049.557 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes4.zip uploaded in 2.45 seconds
+0049.559 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes4.zip
+0049.562 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-themes4.zip: skipped: user has unchecked updraft_delete_local option
+0049.919 (0) Google Drive: quota usage: used=6612.3 MB, total=10492372.3 MB, available=10485760 MB
+0049.922 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-uploads.zip: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0050.595 (0) Googledrive chunked upload: 35.1 % uploaded (1048576)
+0050.700 (0) Googledrive chunked upload: 70.2 % uploaded (2097152)
+0052.108 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0052.115 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-uploads.zip uploaded in 2.19 seconds
+0052.117 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-uploads.zip
+0052.120 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-uploads.zip: skipped: user has unchecked updraft_delete_local option
+0052.471 (0) Google Drive: quota usage: used=6615.1 MB, total=10492375.1 MB, available=10485760 MB
+0052.474 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-others.zip: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0053.187 (0) Googledrive chunked upload: 22 % uploaded (1048576)
+0053.269 (0) Googledrive chunked upload: 43.9 % uploaded (2097152)
+0053.360 (0) Googledrive chunked upload: 65.9 % uploaded (3145728)
+0053.453 (0) Googledrive chunked upload: 87.9 % uploaded (4194304)
+0054.836 (0) Googledrive chunked upload: 100 % uploaded (4194304)
+0054.842 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-others.zip uploaded in 2.37 seconds
+0054.843 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-others.zip
+0054.846 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-others.zip: skipped: user has unchecked updraft_delete_local option
+0055.248 (0) Google Drive: quota usage: used=6619.7 MB, total=10492379.7 MB, available=10485760 MB
+0055.250 (0) Google Drive: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db.gz: Attempting to upload to Google Drive (into folder id: 1EoI2xLLcGpHFLGgoorABuxuYFUtVPK78)
+0055.932 (0) Googledrive chunked upload: 65.3 % uploaded (1048576)
+0057.306 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0057.312 (0) Google Drive: OK: Archive backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db.gz uploaded in 2.06 seconds
+0057.313 (0) Recording as successfully uploaded: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db.gz
+0057.316 (0) Deleting local file: backup_2019-04-18-0759_innovatech_studio_Co_Ltd_906515d76514-db.gz: skipped: user has unchecked updraft_delete_local option
+0057.320 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0057.322 (0) These backup set(s) were imported from a remote location, so will not be counted or pruned. Skipping: 1555478280, 1555474320, 1555408500, 1555407780, 1555382700, 1555291260, 1554867480, 1554831540, 1554345660, 1554344640, 1553476860, 1552872000
+0057.324 (0) Number of backup sets in history: 15; groups (db): 1
+0057.325 (0) Examining (for databases) backup set with group_id=0, nonce=906515d76514, datestamp=1555541990 (Apr 17 2019 22:59:50)
+0057.327 (0) This backup set is the backup set just made, so will not be deleted.
+0057.327 (0) Examining (for databases) backup set with group_id=0, nonce=f931c5506ca4, datestamp=1555478342 (Apr 17 2019 05:19:02)
+0057.327 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.328 (0) Examining (for databases) backup set with group_id=0, nonce=520387e2cfb0, datestamp=1555468809 (Apr 17 2019 02:40:09)
+0057.328 (0) 1555468809: db: this set includes a database (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-db.gz); db count is now 2
+0057.328 (0) 1555468809: db: over retain limit (2); will delete this database
+0057.328 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-db.gz, service=googledrive
+0057.329 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-db.gz)
+0060.512 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-db.gz: Deletion successful
+0060.517 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0060.519 (0) Number of backup sets in history: 15; groups (files): 1
+0060.519 (0) Examining (for files) backup set with nonce=906515d76514, datestamp=1555541990 (Apr 17 2019 22:59:50)
+0060.519 (0) This backup set is the backup set just made, so will not be deleted.
+0060.520 (0) This backup set is the backup set just made, so will not be deleted.
+0060.520 (0) This backup set is the backup set just made, so will not be deleted.
+0060.520 (0) This backup set is the backup set just made, so will not be deleted.
+0060.521 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0060.521 (0) Examining (for files) backup set with nonce=f931c5506ca4, datestamp=1555478342 (Apr 17 2019 05:19:02)
+0060.521 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0060.521 (0) Examining (for files) backup set with nonce=520387e2cfb0, datestamp=1555468809 (Apr 17 2019 02:40:09)
+0060.521 (0) plugins: over retain limit (2); will delete this file entity
+0060.521 (0) themes: over retain limit (2); will delete this file entity
+0060.521 (0) uploads: over retain limit (2); will delete this file entity
+0060.522 (0) others: over retain limit (2); will delete this file entity
+0060.522 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-plugins.zip, service=googledrive
+0060.523 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-plugins.zip)
+0060.526 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes.zip, service=googledrive
+0060.528 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes.zip)
+0060.529 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes2.zip, service=googledrive
+0060.531 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes2.zip)
+0060.532 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes3.zip, service=googledrive
+0060.533 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes3.zip)
+0060.534 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes4.zip, service=googledrive
+0060.535 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes4.zip)
+0060.536 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-uploads.zip, service=googledrive
+0060.537 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-uploads.zip)
+0060.539 (0) Delete file: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-others.zip, service=googledrive
+0060.540 (0) Deleting local copy (backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-others.zip)
+0063.215 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-others.zip: Deletion successful
+0063.911 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-uploads.zip: Deletion successful
+0064.653 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes4.zip: Deletion successful
+0065.479 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes3.zip: Deletion successful
+0066.176 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes2.zip: Deletion successful
+0067.334 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-themes.zip: Deletion successful
+0068.082 (0) Google Drive: backup_2019-04-17-1140_innovatech_studio_Co_Ltd_520387e2cfb0-plugins.zip: Deletion successful
+0068.089 (0) This backup set is now empty; will remove from history
+0068.091 (0) Deleting log file (log.520387e2cfb0.txt)
+0068.094 (0) Retain: saving new backup history (sets now: 14) and finishing retain operation
+0068.103 (0) Resume backup (906515d76514, 0): finish run
+0068.107 (0) Decremented the semaphore (fd) by 1
+0068.112 (0) Semaphore (fd) unlocked
+0068.113 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0068.119 (0) No email will/can be sent - the user has not configured an email address.
+0068.120 (0) The backup apparently succeeded and is now complete

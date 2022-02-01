@@ -2,8 +2,8 @@
  * Specia theme admin script
  */
 
-jQuery(function ( $ ) {
-    'use strict';
+jQuery(function ($) {
+  "use strict";
 
-    $( '#tabs' ).tabs();
+  $("#tabs").tabs();
 });
